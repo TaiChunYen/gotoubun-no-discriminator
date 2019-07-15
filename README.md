@@ -25,9 +25,9 @@ parameter list:
 * train_on_colab.ipynb(use train.py on colab)  
 (if vram out of memory use train_alex.py & test_alex.py or train_on_colab.ipynb)  
 
-* gotobun_qt/PyGui.py(run the GUI)  
+* gotoubun_qt/PyGui.py(run the GUI)  
 
-* gotobun_qt/myui.py(GUI sturcture)  
+* gotoubun_qt/myui.py(GUI sturcture)  
 
 * dataset/(training data)  
 
@@ -49,7 +49,7 @@ loss(resnext50_32x4d):
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/gui.png)
 
 ## 結果
-`python3.6 ./gotobun_qt/PyGui.py`  
+`python3.6 ./gotoubun_qt/PyGui.py`  
 
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/r1.png)
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/r2.png)
