@@ -62,7 +62,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "gotobun discriminator"))
+        Form.setWindowTitle(_translate("Form", "gotoubun discriminator"))
         self.label.setText(_translate("Form", "your image"))
         self.pushButton.setText(_translate("Form", "import image"))
         self.label_2.setText(_translate("Form", "result"))
