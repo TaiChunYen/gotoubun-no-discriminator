@@ -49,7 +49,7 @@ loss(resnext50_32x4d):
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/gui.png)
 
 ## 結果
-python3.6 ./gotobun_qt/PyGui.py  
+`python3.6 ./gotobun_qt/PyGui.py`  
 
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/r1.png)
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/r2.png)
