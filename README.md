@@ -4,12 +4,12 @@
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/gotobun_re.png)
 
 ## 使用工具
-Pytorch  
+*Pytorch  
 
-PyQt5  
+*PyQt5  
 
 ## file overview
-train.py [parameter]  
+*train.py [parameter]  
 parameter list:  
 --n_epochs  
 --batch_size  
@@ -17,21 +17,23 @@ parameter list:
 --dataroot  
 --testroot  
 
-test.py [parameter]  
+*test.py [parameter]  
 parameter list:  
 --model(trained model dir)  
 --n_classes  
 --root(test_img dir)  
 
+*train_on_colab.ipynb(use train.py on colab)  
+
 (if vram out of memory use train_alex.py & test_alex.py or train_on_colab.ipynb)  
 
-gotobun_qt/PyGui.py(run the GUI)  
+*gotobun_qt/PyGui.py(run the GUI)  
 
-gotobun_qt/myui.py(GUI sturcture)  
+*gotobun_qt/myui.py(GUI sturcture)  
 
-dataset/(training data)  
+*dataset/(training data)  
 
-gotoubun/(testing data)  
+*gotoubun/(testing data)  
 
 
 ## 訓練模型
@@ -59,4 +61,4 @@ python3.6 ./gotobun_qt/PyGui.py
 
 
 ## 誌謝
-感謝凶宸提供data來源！
+感謝**凶宸**提供data來源！
