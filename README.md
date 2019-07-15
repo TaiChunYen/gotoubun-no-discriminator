@@ -2,6 +2,12 @@
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/gotoubun-no-hanayome2.png)
 ## 動機
 ![image](https://github.com/TaiChunYen/gotoubun-no-discriminator/blob/master/readme_p/gotobun_re.png)
+
+## 使用工具
+Pytorch  
+
+PyQt5  
+
 ## file overview
 train.py [parameter]  
 parameter list:  
