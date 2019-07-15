@@ -1,0 +1,7201 @@
+[epoch:1]
+0 1.65330970287323
+Accuracy: 18 %
+1 5.058833599090576
+Accuracy: 25 %
+2 4.707366943359375
+Accuracy: 25 %
+3 3.3623108863830566
+Accuracy: 25 %
+4 4.074470520019531
+Accuracy: 6 %
+5 2.571162462234497
+Accuracy: 25 %
+6 3.3262572288513184
+Accuracy: 18 %
+7 2.1269726753234863
+Accuracy: 31 %
+8 2.8583450317382812
+Accuracy: 18 %
+9 3.0782065391540527
+Accuracy: 25 %
+10 1.603176474571228
+Accuracy: 25 %
+11 1.5836151838302612
+Accuracy: 8 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+[epoch:2]
+0 1.4030084609985352
+Accuracy: 18 %
+1 2.0898752212524414
+Accuracy: 12 %
+2 1.5837535858154297
+Accuracy: 18 %
+3 3.036623001098633
+Accuracy: 18 %
+4 2.1843531131744385
+Accuracy: 25 %
+5 1.836588740348816
+Accuracy: 25 %
+6 1.824360728263855
+Accuracy: 37 %
+7 1.3773113489151
+Accuracy: 25 %
+8 1.1671035289764404
+Accuracy: 18 %
+9 1.5929334163665771
+Accuracy: 25 %
+10 1.7677741050720215
+Accuracy: 6 %
+11 1.5464682579040527
+Accuracy: 0 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+[epoch:3]
+0 1.7730066776275635
+Accuracy: 31 %
+1 1.2152103185653687
+Accuracy: 37 %
+2 1.5993375778198242
+Accuracy: 18 %
+3 2.032719612121582
+Accuracy: 12 %
+4 1.3174716234207153
+Accuracy: 18 %
+5 1.2801189422607422
+Accuracy: 12 %
+6 1.4833838939666748
+Accuracy: 18 %
+7 1.537325143814087
+Accuracy: 6 %
+8 1.6368329524993896
+Accuracy: 25 %
+9 1.6340548992156982
+Accuracy: 31 %
+10 1.2794444561004639
+Accuracy: 25 %
+11 0.8685638308525085
+Accuracy: 16 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 11 %
+Test Accuracy: 0 %
+Test Accuracy: 11 %
+Test Accuracy: 11 %
+Test Accuracy: 23 %
+Test Accuracy: 29 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+[epoch:4]
+0 1.8000836372375488
+Accuracy: 18 %
+1 1.270257830619812
+Accuracy: 25 %
+2 0.9356263875961304
+Accuracy: 50 %
+3 1.6474168300628662
+Accuracy: 50 %
+4 1.0283478498458862
+Accuracy: 50 %
+5 1.4196070432662964
+Accuracy: 25 %
+6 1.1130669116973877
+Accuracy: 56 %
+7 1.4485867023468018
+Accuracy: 56 %
+8 1.2138832807540894
+Accuracy: 62 %
+9 1.2145380973815918
+Accuracy: 56 %
+10 1.351098895072937
+Accuracy: 68 %
+11 1.9089616537094116
+Accuracy: 33 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+Test Accuracy: 5 %
+Test Accuracy: 17 %
+Test Accuracy: 35 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 41 %
+Test Accuracy: 64 %
+Test Accuracy: 0 %
+[epoch:5]
+0 1.1877888441085815
+Accuracy: 37 %
+1 1.6492516994476318
+Accuracy: 50 %
+2 1.24227774143219
+Accuracy: 62 %
+3 1.400567650794983
+Accuracy: 43 %
+4 1.7111377716064453
+Accuracy: 50 %
+5 1.328046441078186
+Accuracy: 56 %
+6 1.6548235416412354
+Accuracy: 37 %
+7 1.567822813987732
+Accuracy: 43 %
+8 1.3289856910705566
+Accuracy: 56 %
+9 1.279380440711975
+Accuracy: 50 %
+10 1.4784202575683594
+Accuracy: 37 %
+11 1.8521713018417358
+Accuracy: 25 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 35 %
+Test Accuracy: 11 %
+Test Accuracy: 5 %
+Test Accuracy: 29 %
+Test Accuracy: 70 %
+Test Accuracy: 52 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:6]
+0 1.1775977611541748
+Accuracy: 43 %
+1 1.2968244552612305
+Accuracy: 50 %
+2 1.4217771291732788
+Accuracy: 43 %
+3 1.3149158954620361
+Accuracy: 50 %
+4 1.2693819999694824
+Accuracy: 62 %
+5 1.2974042892456055
+Accuracy: 62 %
+6 1.7294938564300537
+Accuracy: 56 %
+7 1.3574163913726807
+Accuracy: 37 %
+8 1.1222035884857178
+Accuracy: 50 %
+9 1.1142692565917969
+Accuracy: 62 %
+10 1.417034387588501
+Accuracy: 31 %
+11 1.7285879850387573
+Accuracy: 50 %
+Test Accuracy: 41 %
+Test Accuracy: 47 %
+Test Accuracy: 35 %
+Test Accuracy: 35 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 41 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 64 %
+Test Accuracy: 0 %
+[epoch:7]
+0 1.3634976148605347
+Accuracy: 50 %
+1 1.5007281303405762
+Accuracy: 50 %
+2 1.3615539073944092
+Accuracy: 68 %
+3 1.1713182926177979
+Accuracy: 56 %
+4 1.778354287147522
+Accuracy: 50 %
+5 1.430302619934082
+Accuracy: 43 %
+6 1.2836542129516602
+Accuracy: 37 %
+7 1.1987133026123047
+Accuracy: 68 %
+8 1.676667332649231
+Accuracy: 43 %
+9 1.7666065692901611
+Accuracy: 25 %
+10 1.6951518058776855
+Accuracy: 25 %
+11 1.3551911115646362
+Accuracy: 41 %
+Test Accuracy: 52 %
+Test Accuracy: 58 %
+Test Accuracy: 47 %
+Test Accuracy: 70 %
+Test Accuracy: 47 %
+Test Accuracy: 35 %
+Test Accuracy: 17 %
+Test Accuracy: 23 %
+Test Accuracy: 70 %
+Test Accuracy: 52 %
+Test Accuracy: 100 %
+[epoch:8]
+0 1.0649161338806152
+Accuracy: 62 %
+1 1.428423285484314
+Accuracy: 50 %
+2 1.01296067237854
+Accuracy: 50 %
+3 1.2016899585723877
+Accuracy: 37 %
+4 0.91465163230896
+Accuracy: 62 %
+5 1.052323341369629
+Accuracy: 62 %
+6 1.7483406066894531
+Accuracy: 50 %
+7 1.0926297903060913
+Accuracy: 75 %
+8 1.6106599569320679
+Accuracy: 37 %
+9 1.5552723407745361
+Accuracy: 62 %
+10 1.3037444353103638
+Accuracy: 62 %
+11 1.3492412567138672
+Accuracy: 50 %
+Test Accuracy: 47 %
+Test Accuracy: 47 %
+Test Accuracy: 5 %
+Test Accuracy: 0 %
+Test Accuracy: 47 %
+Test Accuracy: 41 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 35 %
+Test Accuracy: 35 %
+Test Accuracy: 100 %
+[epoch:9]
+0 1.5763369798660278
+Accuracy: 50 %
+1 1.4832549095153809
+Accuracy: 37 %
+2 1.1174699068069458
+Accuracy: 50 %
+3 1.6959165334701538
+Accuracy: 50 %
+4 1.48078453540802
+Accuracy: 31 %
+5 1.8531851768493652
+Accuracy: 25 %
+6 1.3123624324798584
+Accuracy: 37 %
+7 1.5418092012405396
+Accuracy: 43 %
+8 1.5597349405288696
+Accuracy: 37 %
+9 1.2516767978668213
+Accuracy: 31 %
+10 1.7506271600723267
+Accuracy: 18 %
+11 1.1511802673339844
+Accuracy: 50 %
+Test Accuracy: 11 %
+Test Accuracy: 11 %
+Test Accuracy: 5 %
+Test Accuracy: 11 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 41 %
+Test Accuracy: 23 %
+Test Accuracy: 0 %
+Test Accuracy: 5 %
+Test Accuracy: 0 %
+[epoch:10]
+0 1.3934706449508667
+Accuracy: 18 %
+1 1.051527500152588
+Accuracy: 43 %
+2 1.044790506362915
+Accuracy: 43 %
+3 1.2743496894836426
+Accuracy: 56 %
+4 1.2376831769943237
+Accuracy: 43 %
+5 1.2329585552215576
+Accuracy: 68 %
+6 0.9046478271484375
+Accuracy: 62 %
+7 0.9241955876350403
+Accuracy: 62 %
+8 1.3879454135894775
+Accuracy: 43 %
+9 1.7488348484039307
+Accuracy: 56 %
+10 1.241379976272583
+Accuracy: 62 %
+11 2.400235414505005
+Accuracy: 41 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 29 %
+Test Accuracy: 41 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 29 %
+Test Accuracy: 35 %
+Test Accuracy: 0 %
+[epoch:11]
+0 1.155489444732666
+Accuracy: 62 %
+1 1.3825857639312744
+Accuracy: 56 %
+2 1.2199934720993042
+Accuracy: 56 %
+3 1.0587159395217896
+Accuracy: 37 %
+4 1.2817450761795044
+Accuracy: 50 %
+5 1.0971442461013794
+Accuracy: 37 %
+6 0.8676543235778809
+Accuracy: 68 %
+7 1.3107978105545044
+Accuracy: 43 %
+8 1.5169551372528076
+Accuracy: 50 %
+9 1.0297948122024536
+Accuracy: 62 %
+10 1.0791651010513306
+Accuracy: 43 %
+11 1.0078074932098389
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 35 %
+Test Accuracy: 29 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 70 %
+Test Accuracy: 0 %
+[epoch:12]
+0 1.101771354675293
+Accuracy: 62 %
+1 1.337473750114441
+Accuracy: 43 %
+2 1.4272619485855103
+Accuracy: 81 %
+3 1.4786467552185059
+Accuracy: 62 %
+4 1.663375973701477
+Accuracy: 50 %
+5 1.6072602272033691
+Accuracy: 50 %
+6 1.073532223701477
+Accuracy: 43 %
+7 1.4386323690414429
+Accuracy: 43 %
+8 1.4323363304138184
+Accuracy: 56 %
+9 1.5087445974349976
+Accuracy: 43 %
+10 1.3654301166534424
+Accuracy: 62 %
+11 1.1519745588302612
+Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 23 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 41 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:13]
+0 1.1024024486541748
+Accuracy: 68 %
+1 0.8893290162086487
+Accuracy: 37 %
+2 1.5289064645767212
+Accuracy: 31 %
+3 0.9746195077896118
+Accuracy: 62 %
+4 1.3904931545257568
+Accuracy: 43 %
+5 2.101546049118042
+Accuracy: 50 %
+6 1.5687600374221802
+Accuracy: 56 %
+7 1.4543614387512207
+Accuracy: 31 %
+8 1.0754390954971313
+Accuracy: 50 %
+9 2.2772209644317627
+Accuracy: 50 %
+10 1.5693848133087158
+Accuracy: 43 %
+11 1.376987338066101
+Accuracy: 25 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 47 %
+Test Accuracy: 64 %
+Test Accuracy: 29 %
+Test Accuracy: 11 %
+Test Accuracy: 23 %
+Test Accuracy: 23 %
+Test Accuracy: 29 %
+Test Accuracy: 100 %
+[epoch:14]
+0 1.1772019863128662
+Accuracy: 75 %
+1 1.5559388399124146
+Accuracy: 68 %
+2 1.3792322874069214
+Accuracy: 43 %
+3 1.1586153507232666
+Accuracy: 43 %
+4 1.7066324949264526
+Accuracy: 43 %
+5 1.2685446739196777
+Accuracy: 37 %
+6 1.015105962753296
+Accuracy: 68 %
+7 0.8663648366928101
+Accuracy: 68 %
+8 1.2815130949020386
+Accuracy: 68 %
+9 1.6791309118270874
+Accuracy: 37 %
+10 1.705269694328308
+Accuracy: 56 %
+11 1.7383495569229126
+Accuracy: 66 %
+Test Accuracy: 47 %
+Test Accuracy: 17 %
+Test Accuracy: 35 %
+Test Accuracy: 47 %
+Test Accuracy: 35 %
+Test Accuracy: 29 %
+Test Accuracy: 58 %
+Test Accuracy: 41 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:15]
+0 0.8071616291999817
+Accuracy: 37 %
+1 1.2994767427444458
+Accuracy: 37 %
+2 1.168797254562378
+Accuracy: 50 %
+3 1.343653678894043
+Accuracy: 37 %
+4 1.8770666122436523
+Accuracy: 25 %
+5 1.3310638666152954
+Accuracy: 25 %
+6 1.4693034887313843
+Accuracy: 31 %
+7 1.3238027095794678
+Accuracy: 25 %
+8 0.9594978094100952
+Accuracy: 50 %
+9 1.3966906070709229
+Accuracy: 62 %
+10 2.0410568714141846
+Accuracy: 31 %
+11 1.294824242591858
+Accuracy: 33 %
+Test Accuracy: 23 %
+Test Accuracy: 47 %
+Test Accuracy: 0 %
+Test Accuracy: 0 %
+Test Accuracy: 29 %
+Test Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 0 %
+[epoch:16]
+0 1.735910177230835
+Accuracy: 37 %
+1 1.864976167678833
+Accuracy: 31 %
+2 1.2278536558151245
+Accuracy: 25 %
+3 1.0550410747528076
+Accuracy: 37 %
+4 1.7490979433059692
+Accuracy: 12 %
+5 1.3026037216186523
+Accuracy: 37 %
+6 1.1877272129058838
+Accuracy: 43 %
+7 1.1109544038772583
+Accuracy: 43 %
+8 1.337184190750122
+Accuracy: 56 %
+9 1.7813385725021362
+Accuracy: 25 %
+10 1.3222496509552002
+Accuracy: 43 %
+11 1.1063661575317383
+Accuracy: 25 %
+Test Accuracy: 47 %
+Test Accuracy: 35 %
+Test Accuracy: 23 %
+Test Accuracy: 23 %
+Test Accuracy: 35 %
+Test Accuracy: 29 %
+Test Accuracy: 11 %
+Test Accuracy: 11 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:17]
+0 1.7498060464859009
+Accuracy: 56 %
+1 1.0165250301361084
+Accuracy: 62 %
+2 1.4830025434494019
+Accuracy: 37 %
+3 1.0345215797424316
+Accuracy: 50 %
+4 1.4248888492584229
+Accuracy: 50 %
+5 1.3020122051239014
+Accuracy: 25 %
+6 1.116577386856079
+Accuracy: 31 %
+7 1.3337719440460205
+Accuracy: 37 %
+8 1.610313892364502
+Accuracy: 25 %
+9 0.9684934616088867
+Accuracy: 62 %
+10 1.413988471031189
+Accuracy: 50 %
+11 1.6958478689193726
+Accuracy: 33 %
+Test Accuracy: 41 %
+Test Accuracy: 64 %
+Test Accuracy: 11 %
+Test Accuracy: 23 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 17 %
+Test Accuracy: 23 %
+Test Accuracy: 0 %
+[epoch:18]
+0 1.5101511478424072
+Accuracy: 37 %
+1 1.3199676275253296
+Accuracy: 56 %
+2 1.5306153297424316
+Accuracy: 68 %
+3 1.1342464685440063
+Accuracy: 37 %
+4 1.6189754009246826
+Accuracy: 43 %
+5 1.2029885053634644
+Accuracy: 62 %
+6 0.8943620920181274
+Accuracy: 62 %
+7 0.9734790921211243
+Accuracy: 68 %
+8 1.2960149049758911
+Accuracy: 37 %
+9 1.3559339046478271
+Accuracy: 62 %
+10 1.1350421905517578
+Accuracy: 56 %
+11 1.182420253753662
+Accuracy: 66 %
+Test Accuracy: 64 %
+Test Accuracy: 47 %
+Test Accuracy: 58 %
+Test Accuracy: 17 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:19]
+0 1.208130121231079
+Accuracy: 68 %
+1 1.489107608795166
+Accuracy: 43 %
+2 1.0057271718978882
+Accuracy: 81 %
+3 1.2942885160446167
+Accuracy: 62 %
+4 0.9914077520370483
+Accuracy: 43 %
+5 1.1453169584274292
+Accuracy: 62 %
+6 1.0794435739517212
+Accuracy: 56 %
+7 0.9274035096168518
+Accuracy: 75 %
+8 1.0863776206970215
+Accuracy: 62 %
+9 1.028638243675232
+Accuracy: 56 %
+10 1.0449795722961426
+Accuracy: 75 %
+11 0.8432614803314209
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:20]
+0 1.5545949935913086
+Accuracy: 43 %
+1 0.8739471435546875
+Accuracy: 75 %
+2 0.7059007883071899
+Accuracy: 62 %
+3 0.7670301198959351
+Accuracy: 62 %
+4 1.3355040550231934
+Accuracy: 56 %
+5 1.197195053100586
+Accuracy: 75 %
+6 1.7167576551437378
+Accuracy: 43 %
+7 1.1832810640335083
+Accuracy: 62 %
+8 1.8836296796798706
+Accuracy: 37 %
+9 1.2917823791503906
+Accuracy: 56 %
+10 0.8726763129234314
+Accuracy: 75 %
+11 1.3323115110397339
+Accuracy: 50 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 35 %
+Test Accuracy: 29 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:21]
+0 1.0025848150253296
+Accuracy: 75 %
+1 0.8581799864768982
+Accuracy: 68 %
+2 1.287489891052246
+Accuracy: 50 %
+3 1.7384237051010132
+Accuracy: 37 %
+4 0.7812954187393188
+Accuracy: 75 %
+5 2.0422093868255615
+Accuracy: 75 %
+6 0.7046777606010437
+Accuracy: 68 %
+7 1.3111332654953003
+Accuracy: 75 %
+8 0.955028235912323
+Accuracy: 68 %
+9 1.0962125062942505
+Accuracy: 68 %
+10 1.454296350479126
+Accuracy: 56 %
+11 1.0839900970458984
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 47 %
+Test Accuracy: 23 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 23 %
+Test Accuracy: 29 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:22]
+0 1.2642134428024292
+Accuracy: 56 %
+1 1.2702761888504028
+Accuracy: 31 %
+2 1.0475555658340454
+Accuracy: 75 %
+3 0.9509997963905334
+Accuracy: 62 %
+4 1.655166745185852
+Accuracy: 56 %
+5 1.0251965522766113
+Accuracy: 62 %
+6 1.0301095247268677
+Accuracy: 75 %
+7 1.3514082431793213
+Accuracy: 62 %
+8 1.135704517364502
+Accuracy: 62 %
+9 1.0849919319152832
+Accuracy: 81 %
+10 1.0608735084533691
+Accuracy: 62 %
+11 1.0061639547348022
+Accuracy: 83 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 47 %
+Test Accuracy: 52 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:23]
+0 1.67424476146698
+Accuracy: 50 %
+1 1.1232483386993408
+Accuracy: 68 %
+2 1.0694751739501953
+Accuracy: 68 %
+3 1.3795692920684814
+Accuracy: 50 %
+4 0.853500485420227
+Accuracy: 68 %
+5 0.8350476622581482
+Accuracy: 87 %
+6 1.50679612159729
+Accuracy: 62 %
+7 1.1383042335510254
+Accuracy: 56 %
+8 1.278788447380066
+Accuracy: 50 %
+9 1.8207844495773315
+Accuracy: 56 %
+10 0.8223809003829956
+Accuracy: 50 %
+11 1.5402809381484985
+Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 52 %
+Test Accuracy: 47 %
+Test Accuracy: 41 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:24]
+0 0.8625309467315674
+Accuracy: 62 %
+1 1.1639063358306885
+Accuracy: 62 %
+2 1.51112699508667
+Accuracy: 56 %
+3 0.8524775505065918
+Accuracy: 62 %
+4 0.7217293977737427
+Accuracy: 75 %
+5 1.1175850629806519
+Accuracy: 75 %
+6 0.7148807048797607
+Accuracy: 81 %
+7 1.1753571033477783
+Accuracy: 56 %
+8 0.7487855553627014
+Accuracy: 75 %
+9 1.2544429302215576
+Accuracy: 56 %
+10 1.106836199760437
+Accuracy: 50 %
+11 1.3619133234024048
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 47 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:25]
+0 0.6829211711883545
+Accuracy: 81 %
+1 0.46292346715927124
+Accuracy: 75 %
+2 0.8535932898521423
+Accuracy: 56 %
+3 1.0580884218215942
+Accuracy: 56 %
+4 0.8905701041221619
+Accuracy: 75 %
+5 0.9476422071456909
+Accuracy: 56 %
+6 1.1008902788162231
+Accuracy: 68 %
+7 1.6460683345794678
+Accuracy: 43 %
+8 1.117834448814392
+Accuracy: 62 %
+9 1.3318766355514526
+Accuracy: 37 %
+10 1.7580446004867554
+Accuracy: 56 %
+11 0.8895172476768494
+Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 47 %
+Test Accuracy: 41 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 23 %
+Test Accuracy: 41 %
+Test Accuracy: 0 %
+[epoch:26]
+0 1.0145373344421387
+Accuracy: 56 %
+1 0.7836633920669556
+Accuracy: 81 %
+2 1.6069021224975586
+Accuracy: 68 %
+3 0.737385630607605
+Accuracy: 87 %
+4 1.3078467845916748
+Accuracy: 50 %
+5 1.087886929512024
+Accuracy: 50 %
+6 1.2180877923965454
+Accuracy: 68 %
+7 1.201458215713501
+Accuracy: 56 %
+8 1.2499088048934937
+Accuracy: 62 %
+9 1.242231011390686
+Accuracy: 43 %
+10 1.0288443565368652
+Accuracy: 56 %
+11 0.8910992741584778
+Accuracy: 66 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 41 %
+Test Accuracy: 29 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:27]
+0 0.5845945477485657
+Accuracy: 62 %
+1 0.9570224285125732
+Accuracy: 56 %
+2 0.9785820245742798
+Accuracy: 81 %
+3 1.122528076171875
+Accuracy: 62 %
+4 1.0090177059173584
+Accuracy: 75 %
+5 1.5827107429504395
+Accuracy: 37 %
+6 1.1389399766921997
+Accuracy: 62 %
+7 0.7038654685020447
+Accuracy: 81 %
+8 1.5145392417907715
+Accuracy: 56 %
+9 1.6219829320907593
+Accuracy: 43 %
+10 0.6220763325691223
+Accuracy: 87 %
+11 0.6988726258277893
+Accuracy: 66 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:28]
+0 0.7647925615310669
+Accuracy: 68 %
+1 0.6941258907318115
+Accuracy: 68 %
+2 1.6492375135421753
+Accuracy: 68 %
+3 1.0024774074554443
+Accuracy: 68 %
+4 1.3697019815444946
+Accuracy: 50 %
+5 0.7579468488693237
+Accuracy: 62 %
+6 0.5309170484542847
+Accuracy: 87 %
+7 0.7892389893531799
+Accuracy: 75 %
+8 0.7441872954368591
+Accuracy: 68 %
+9 1.1349848508834839
+Accuracy: 68 %
+10 1.146319031715393
+Accuracy: 50 %
+11 1.0247215032577515
+Accuracy: 50 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 47 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 47 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:29]
+0 0.8179095387458801
+Accuracy: 50 %
+1 1.2892214059829712
+Accuracy: 68 %
+2 0.9353623390197754
+Accuracy: 50 %
+3 0.714093804359436
+Accuracy: 81 %
+4 0.7412653565406799
+Accuracy: 68 %
+5 0.8340235352516174
+Accuracy: 81 %
+6 0.5063471794128418
+Accuracy: 81 %
+7 1.1456990242004395
+Accuracy: 62 %
+8 0.8199665546417236
+Accuracy: 62 %
+9 1.0578866004943848
+Accuracy: 68 %
+10 1.0595890283584595
+Accuracy: 62 %
+11 1.1737958192825317
+Accuracy: 66 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:30]
+0 0.7888761162757874
+Accuracy: 75 %
+1 0.5888493061065674
+Accuracy: 75 %
+2 1.74141526222229
+Accuracy: 56 %
+3 1.1704230308532715
+Accuracy: 68 %
+4 0.8163866996765137
+Accuracy: 81 %
+5 1.0811306238174438
+Accuracy: 81 %
+6 1.273400068283081
+Accuracy: 62 %
+7 0.7441027164459229
+Accuracy: 56 %
+8 0.7493079900741577
+Accuracy: 75 %
+9 0.8304270505905151
+Accuracy: 68 %
+10 1.8017375469207764
+Accuracy: 37 %
+11 1.334460735321045
+Accuracy: 66 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 41 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 41 %
+Test Accuracy: 41 %
+Test Accuracy: 0 %
+[epoch:31]
+0 0.6934059262275696
+Accuracy: 62 %
+1 0.9652801752090454
+Accuracy: 43 %
+2 0.6887454986572266
+Accuracy: 81 %
+3 0.7979024052619934
+Accuracy: 68 %
+4 1.2127413749694824
+Accuracy: 56 %
+5 0.8216358423233032
+Accuracy: 56 %
+6 1.092954397201538
+Accuracy: 68 %
+7 1.3107866048812866
+Accuracy: 62 %
+8 1.4669190645217896
+Accuracy: 43 %
+9 1.3242919445037842
+Accuracy: 50 %
+10 1.1059041023254395
+Accuracy: 50 %
+11 1.180191159248352
+Accuracy: 58 %
+Test Accuracy: 47 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 41 %
+Test Accuracy: 52 %
+Test Accuracy: 47 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:32]
+0 0.8793883919715881
+Accuracy: 50 %
+1 0.868395209312439
+Accuracy: 62 %
+2 1.243599534034729
+Accuracy: 56 %
+3 1.3811103105545044
+Accuracy: 50 %
+4 0.9021635055541992
+Accuracy: 56 %
+5 1.251572608947754
+Accuracy: 68 %
+6 1.5282304286956787
+Accuracy: 56 %
+7 0.6580137610435486
+Accuracy: 75 %
+8 1.253165602684021
+Accuracy: 56 %
+9 0.813008189201355
+Accuracy: 75 %
+10 1.3258779048919678
+Accuracy: 75 %
+11 0.737437903881073
+Accuracy: 83 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 52 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 0 %
+[epoch:33]
+0 1.1402442455291748
+Accuracy: 43 %
+1 1.6195322275161743
+Accuracy: 37 %
+2 0.7591603994369507
+Accuracy: 87 %
+3 1.0402874946594238
+Accuracy: 75 %
+4 0.8712473511695862
+Accuracy: 87 %
+5 1.1561962366104126
+Accuracy: 75 %
+6 0.8267714977264404
+Accuracy: 68 %
+7 0.9073262214660645
+Accuracy: 56 %
+8 1.1248009204864502
+Accuracy: 75 %
+9 1.0916815996170044
+Accuracy: 62 %
+10 1.3170032501220703
+Accuracy: 43 %
+11 1.2096625566482544
+Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 0 %
+[epoch:34]
+0 1.273222804069519
+Accuracy: 56 %
+1 0.5773043632507324
+Accuracy: 87 %
+2 0.8160494565963745
+Accuracy: 68 %
+3 1.0009961128234863
+Accuracy: 50 %
+4 0.8966098427772522
+Accuracy: 75 %
+5 1.007872223854065
+Accuracy: 50 %
+6 1.3635280132293701
+Accuracy: 43 %
+7 0.7217056751251221
+Accuracy: 75 %
+8 0.8161069750785828
+Accuracy: 68 %
+9 1.1014612913131714
+Accuracy: 75 %
+10 0.8738830089569092
+Accuracy: 62 %
+11 1.061550498008728
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:35]
+0 0.9019054770469666
+Accuracy: 81 %
+1 0.9113103747367859
+Accuracy: 68 %
+2 1.1880202293395996
+Accuracy: 50 %
+3 0.7678266167640686
+Accuracy: 75 %
+4 0.6105145215988159
+Accuracy: 87 %
+5 0.9102518558502197
+Accuracy: 68 %
+6 0.9889193773269653
+Accuracy: 56 %
+7 1.1619324684143066
+Accuracy: 62 %
+8 1.0848569869995117
+Accuracy: 62 %
+9 0.9298689365386963
+Accuracy: 62 %
+10 0.8677599430084229
+Accuracy: 75 %
+11 1.2580721378326416
+Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:36]
+0 0.9575267434120178
+Accuracy: 68 %
+1 0.7100902795791626
+Accuracy: 68 %
+2 1.317457675933838
+Accuracy: 62 %
+3 0.4380444586277008
+Accuracy: 81 %
+4 0.732447624206543
+Accuracy: 75 %
+5 0.9497836232185364
+Accuracy: 62 %
+6 0.7386338710784912
+Accuracy: 75 %
+7 1.6474303007125854
+Accuracy: 75 %
+8 0.8004002571105957
+Accuracy: 62 %
+9 0.9018248915672302
+Accuracy: 68 %
+10 1.0120792388916016
+Accuracy: 81 %
+11 1.061647891998291
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:37]
+0 0.7028657793998718
+Accuracy: 68 %
+1 0.6316555738449097
+Accuracy: 56 %
+2 0.7923868298530579
+Accuracy: 50 %
+3 0.7046929597854614
+Accuracy: 56 %
+4 0.9074264764785767
+Accuracy: 68 %
+5 1.031079649925232
+Accuracy: 50 %
+6 1.7651861906051636
+Accuracy: 62 %
+7 1.709652066230774
+Accuracy: 62 %
+8 1.479417085647583
+Accuracy: 56 %
+9 1.0012861490249634
+Accuracy: 50 %
+10 0.8555349111557007
+Accuracy: 56 %
+11 0.7397100925445557
+Accuracy: 91 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 11 %
+Test Accuracy: 23 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 0 %
+[epoch:38]
+0 0.8030218482017517
+Accuracy: 62 %
+1 1.023520827293396
+Accuracy: 62 %
+2 0.8129532337188721
+Accuracy: 50 %
+3 1.115491271018982
+Accuracy: 37 %
+4 0.6745695471763611
+Accuracy: 56 %
+5 0.9146338701248169
+Accuracy: 56 %
+6 1.021807312965393
+Accuracy: 81 %
+7 0.7091915011405945
+Accuracy: 68 %
+8 1.7138093709945679
+Accuracy: 68 %
+9 1.3703663349151611
+Accuracy: 75 %
+10 1.1674017906188965
+Accuracy: 81 %
+11 1.556553840637207
+Accuracy: 41 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 52 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 41 %
+Test Accuracy: 47 %
+Test Accuracy: 0 %
+[epoch:39]
+0 1.3385663032531738
+Accuracy: 31 %
+1 0.8884324431419373
+Accuracy: 68 %
+2 0.6748351454734802
+Accuracy: 68 %
+3 0.7616763114929199
+Accuracy: 75 %
+4 0.940105676651001
+Accuracy: 50 %
+5 1.0235393047332764
+Accuracy: 68 %
+6 0.8274894952774048
+Accuracy: 68 %
+7 1.0416609048843384
+Accuracy: 50 %
+8 1.0418193340301514
+Accuracy: 62 %
+9 0.7767065167427063
+Accuracy: 62 %
+10 1.3046475648880005
+Accuracy: 37 %
+11 0.9712117314338684
+Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 41 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:40]
+0 1.0031318664550781
+Accuracy: 62 %
+1 0.9751912951469421
+Accuracy: 75 %
+2 0.8528884649276733
+Accuracy: 81 %
+3 1.2186318635940552
+Accuracy: 62 %
+4 1.2336225509643555
+Accuracy: 56 %
+5 0.612089216709137
+Accuracy: 56 %
+6 1.1148089170455933
+Accuracy: 62 %
+7 1.144028663635254
+Accuracy: 56 %
+8 0.7967298626899719
+Accuracy: 81 %
+9 0.7131437063217163
+Accuracy: 81 %
+10 1.0753331184387207
+Accuracy: 62 %
+11 1.1568609476089478
+Accuracy: 75 %
+Test Accuracy: 64 %
+Test Accuracy: 23 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 52 %
+Test Accuracy: 58 %
+Test Accuracy: 41 %
+Test Accuracy: 23 %
+Test Accuracy: 0 %
+[epoch:41]
+0 1.2173300981521606
+Accuracy: 56 %
+1 1.1604409217834473
+Accuracy: 62 %
+2 0.581398606300354
+Accuracy: 62 %
+3 1.0741398334503174
+Accuracy: 62 %
+4 1.1275315284729004
+Accuracy: 68 %
+5 1.1328213214874268
+Accuracy: 56 %
+6 1.337260127067566
+Accuracy: 50 %
+7 1.1110984086990356
+Accuracy: 62 %
+8 0.7396868467330933
+Accuracy: 81 %
+9 1.494982123374939
+Accuracy: 56 %
+10 1.457768201828003
+Accuracy: 56 %
+11 1.1024773120880127
+Accuracy: 83 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 0 %
+[epoch:42]
+0 0.8754405975341797
+Accuracy: 56 %
+1 0.8748840093612671
+Accuracy: 56 %
+2 0.9217082262039185
+Accuracy: 93 %
+3 0.7002074122428894
+Accuracy: 62 %
+4 1.00654935836792
+Accuracy: 43 %
+5 0.5635885000228882
+Accuracy: 93 %
+6 1.169079303741455
+Accuracy: 62 %
+7 0.9193130135536194
+Accuracy: 81 %
+8 0.9524213671684265
+Accuracy: 50 %
+9 0.753644585609436
+Accuracy: 62 %
+10 1.2640671730041504
+Accuracy: 75 %
+11 1.2486032247543335
+Accuracy: 41 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 41 %
+Test Accuracy: 41 %
+Test Accuracy: 100 %
+[epoch:43]
+0 1.007034420967102
+Accuracy: 62 %
+1 0.9921295642852783
+Accuracy: 56 %
+2 1.0449326038360596
+Accuracy: 81 %
+3 1.3927851915359497
+Accuracy: 56 %
+4 0.7161381244659424
+Accuracy: 68 %
+5 0.8436988592147827
+Accuracy: 50 %
+6 0.8016894459724426
+Accuracy: 81 %
+7 0.6288982629776001
+Accuracy: 75 %
+8 1.0251002311706543
+Accuracy: 50 %
+9 1.2491164207458496
+Accuracy: 56 %
+10 0.5990434288978577
+Accuracy: 68 %
+11 1.4425355195999146
+Accuracy: 66 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 41 %
+Test Accuracy: 47 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:44]
+0 1.1129405498504639
+Accuracy: 50 %
+1 0.8537263870239258
+Accuracy: 68 %
+2 0.7732104659080505
+Accuracy: 81 %
+3 1.0471123456954956
+Accuracy: 56 %
+4 0.9565462470054626
+Accuracy: 62 %
+5 1.0478191375732422
+Accuracy: 56 %
+6 0.8584238886833191
+Accuracy: 75 %
+7 0.9081608057022095
+Accuracy: 68 %
+8 0.7268686890602112
+Accuracy: 62 %
+9 1.1856523752212524
+Accuracy: 56 %
+10 0.5893405675888062
+Accuracy: 75 %
+11 0.4462341368198395
+Accuracy: 91 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 47 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 0 %
+[epoch:45]
+0 0.7685374021530151
+Accuracy: 81 %
+1 1.1018058061599731
+Accuracy: 81 %
+2 0.5215834379196167
+Accuracy: 93 %
+3 0.6504000425338745
+Accuracy: 81 %
+4 0.4001154899597168
+Accuracy: 87 %
+5 0.8539858460426331
+Accuracy: 75 %
+6 1.2744386196136475
+Accuracy: 75 %
+7 1.486177682876587
+Accuracy: 68 %
+8 1.126642107963562
+Accuracy: 56 %
+9 1.0693774223327637
+Accuracy: 62 %
+10 0.7597599029541016
+Accuracy: 75 %
+11 1.5389190912246704
+Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 0 %
+[epoch:46]
+0 1.396201252937317
+Accuracy: 56 %
+1 0.8397136330604553
+Accuracy: 62 %
+2 0.7564078569412231
+Accuracy: 68 %
+3 1.0171406269073486
+Accuracy: 75 %
+4 0.7089263200759888
+Accuracy: 50 %
+5 1.059781789779663
+Accuracy: 50 %
+6 1.3793931007385254
+Accuracy: 56 %
+7 0.9662176370620728
+Accuracy: 68 %
+8 1.0088062286376953
+Accuracy: 68 %
+9 1.1338660717010498
+Accuracy: 56 %
+10 0.9882016181945801
+Accuracy: 62 %
+11 1.6297920942306519
+Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 41 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:47]
+0 0.8261029124259949
+Accuracy: 68 %
+1 0.6155310869216919
+Accuracy: 68 %
+2 0.9895355701446533
+Accuracy: 75 %
+3 1.0140631198883057
+Accuracy: 56 %
+4 0.9985454678535461
+Accuracy: 81 %
+5 0.8245648145675659
+Accuracy: 75 %
+6 1.2210432291030884
+Accuracy: 62 %
+7 0.8418434858322144
+Accuracy: 62 %
+8 1.1680312156677246
+Accuracy: 62 %
+9 0.6478033661842346
+Accuracy: 68 %
+10 0.8008191585540771
+Accuracy: 62 %
+11 0.6872625946998596
+Accuracy: 58 %
+Test Accuracy: 35 %
+Test Accuracy: 47 %
+Test Accuracy: 58 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:48]
+0 1.0967434644699097
+Accuracy: 56 %
+1 0.43173933029174805
+Accuracy: 75 %
+2 0.8925487399101257
+Accuracy: 75 %
+3 0.7325552701950073
+Accuracy: 87 %
+4 0.8564022183418274
+Accuracy: 87 %
+5 0.7116334438323975
+Accuracy: 75 %
+6 1.0495728254318237
+Accuracy: 62 %
+7 0.9713720083236694
+Accuracy: 75 %
+8 1.572935700416565
+Accuracy: 56 %
+9 1.2178606986999512
+Accuracy: 62 %
+10 0.952936053276062
+Accuracy: 62 %
+11 1.330162525177002
+Accuracy: 58 %
+Test Accuracy: 47 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 47 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:49]
+0 1.2784405946731567
+Accuracy: 81 %
+1 1.1761434078216553
+Accuracy: 56 %
+2 0.7012959122657776
+Accuracy: 81 %
+3 1.0904947519302368
+Accuracy: 56 %
+4 0.9654538631439209
+Accuracy: 62 %
+5 0.9814375042915344
+Accuracy: 68 %
+6 1.0619194507598877
+Accuracy: 62 %
+7 0.6528235077857971
+Accuracy: 81 %
+8 1.4247586727142334
+Accuracy: 56 %
+9 1.0412018299102783
+Accuracy: 75 %
+10 0.8076919913291931
+Accuracy: 62 %
+11 0.6318222880363464
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 52 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:50]
+0 0.5727383494377136
+Accuracy: 87 %
+1 0.646143913269043
+Accuracy: 81 %
+2 0.8231180310249329
+Accuracy: 62 %
+3 1.0345721244812012
+Accuracy: 56 %
+4 0.7788656949996948
+Accuracy: 75 %
+5 0.777224600315094
+Accuracy: 75 %
+6 0.9056355357170105
+Accuracy: 68 %
+7 1.4094663858413696
+Accuracy: 43 %
+8 1.0962343215942383
+Accuracy: 56 %
+9 1.3623194694519043
+Accuracy: 50 %
+10 1.5031241178512573
+Accuracy: 50 %
+11 0.827815055847168
+Accuracy: 66 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 52 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:51]
+0 0.5769346356391907
+Accuracy: 75 %
+1 0.7966973781585693
+Accuracy: 81 %
+2 1.0450217723846436
+Accuracy: 75 %
+3 0.9701189994812012
+Accuracy: 68 %
+4 0.9686893224716187
+Accuracy: 75 %
+5 0.7337711453437805
+Accuracy: 62 %
+6 0.8533910512924194
+Accuracy: 81 %
+7 0.8881909251213074
+Accuracy: 93 %
+8 1.0915608406066895
+Accuracy: 56 %
+9 1.0333127975463867
+Accuracy: 68 %
+10 1.2000186443328857
+Accuracy: 43 %
+11 1.5104061365127563
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 0 %
+[epoch:52]
+0 0.7380161285400391
+Accuracy: 68 %
+1 1.1258881092071533
+Accuracy: 56 %
+2 0.76869136095047
+Accuracy: 81 %
+3 0.7903454303741455
+Accuracy: 87 %
+4 0.6728804111480713
+Accuracy: 81 %
+5 1.1229140758514404
+Accuracy: 56 %
+6 0.9881080985069275
+Accuracy: 62 %
+7 1.015981912612915
+Accuracy: 75 %
+8 0.8833106756210327
+Accuracy: 75 %
+9 1.3421019315719604
+Accuracy: 81 %
+10 0.8526603579521179
+Accuracy: 62 %
+11 1.333034634590149
+Accuracy: 50 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:53]
+0 0.7556276917457581
+Accuracy: 81 %
+1 1.158071517944336
+Accuracy: 81 %
+2 0.8137902021408081
+Accuracy: 81 %
+3 0.9995888471603394
+Accuracy: 50 %
+4 0.8856127858161926
+Accuracy: 56 %
+5 0.931341826915741
+Accuracy: 81 %
+6 1.2160900831222534
+Accuracy: 75 %
+7 0.6588737964630127
+Accuracy: 75 %
+8 0.9353491067886353
+Accuracy: 75 %
+9 0.9483725428581238
+Accuracy: 68 %
+10 0.7655346393585205
+Accuracy: 68 %
+11 1.0665150880813599
+Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:54]
+0 1.17950439453125
+Accuracy: 50 %
+1 0.7497565746307373
+Accuracy: 68 %
+2 0.9469234943389893
+Accuracy: 81 %
+3 0.8494488000869751
+Accuracy: 62 %
+4 1.1355934143066406
+Accuracy: 75 %
+5 0.8017303943634033
+Accuracy: 75 %
+6 0.9229885339736938
+Accuracy: 62 %
+7 1.3263717889785767
+Accuracy: 87 %
+8 0.9986914396286011
+Accuracy: 62 %
+9 1.4398843050003052
+Accuracy: 81 %
+10 0.81844162940979
+Accuracy: 68 %
+11 1.0520730018615723
+Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:55]
+0 0.7620471715927124
+Accuracy: 81 %
+1 1.1957939863204956
+Accuracy: 68 %
+2 0.9589102864265442
+Accuracy: 68 %
+3 1.2614885568618774
+Accuracy: 81 %
+4 0.8811421394348145
+Accuracy: 75 %
+5 0.5991686582565308
+Accuracy: 81 %
+6 0.9600255489349365
+Accuracy: 68 %
+7 0.5549179315567017
+Accuracy: 81 %
+8 0.7800117135047913
+Accuracy: 75 %
+9 0.7557344436645508
+Accuracy: 87 %
+10 0.868324339389801
+Accuracy: 68 %
+11 0.8757928013801575
+Accuracy: 75 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:56]
+0 0.7734037637710571
+Accuracy: 87 %
+1 0.9828917384147644
+Accuracy: 62 %
+2 0.5618215203285217
+Accuracy: 81 %
+3 0.4733477532863617
+Accuracy: 87 %
+4 0.8331298828125
+Accuracy: 75 %
+5 0.9626327753067017
+Accuracy: 68 %
+6 0.8250533938407898
+Accuracy: 87 %
+7 0.7300674915313721
+Accuracy: 68 %
+8 0.7027978897094727
+Accuracy: 81 %
+9 1.222724437713623
+Accuracy: 62 %
+10 0.9373673796653748
+Accuracy: 56 %
+11 0.8511188626289368
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:57]
+0 1.1047594547271729
+Accuracy: 62 %
+1 0.6623721122741699
+Accuracy: 68 %
+2 0.5992909669876099
+Accuracy: 50 %
+3 0.6366966962814331
+Accuracy: 62 %
+4 1.4204840660095215
+Accuracy: 56 %
+5 1.3046823740005493
+Accuracy: 68 %
+6 0.8027290105819702
+Accuracy: 68 %
+7 0.49056676030158997
+Accuracy: 50 %
+8 0.9856665134429932
+Accuracy: 56 %
+9 0.729096531867981
+Accuracy: 68 %
+10 1.7086036205291748
+Accuracy: 43 %
+11 1.3876118659973145
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 52 %
+Test Accuracy: 47 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:58]
+0 1.0093573331832886
+Accuracy: 68 %
+1 0.4632260203361511
+Accuracy: 100 %
+2 0.6669098138809204
+Accuracy: 81 %
+3 1.1984574794769287
+Accuracy: 62 %
+4 0.41705161333084106
+Accuracy: 75 %
+5 1.22324800491333
+Accuracy: 68 %
+6 1.3382107019424438
+Accuracy: 68 %
+7 0.9127944707870483
+Accuracy: 62 %
+8 0.9862593412399292
+Accuracy: 50 %
+9 1.342167615890503
+Accuracy: 75 %
+10 0.6588252782821655
+Accuracy: 81 %
+11 0.9465555548667908
+Accuracy: 75 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:59]
+0 0.7779636383056641
+Accuracy: 81 %
+1 1.6018677949905396
+Accuracy: 56 %
+2 0.5012982487678528
+Accuracy: 81 %
+3 1.6712641716003418
+Accuracy: 56 %
+4 0.8324984908103943
+Accuracy: 81 %
+5 0.5559752583503723
+Accuracy: 87 %
+6 0.9165489673614502
+Accuracy: 81 %
+7 0.7573655843734741
+Accuracy: 75 %
+8 0.7092564105987549
+Accuracy: 68 %
+9 0.6798230409622192
+Accuracy: 87 %
+10 1.019821286201477
+Accuracy: 68 %
+11 0.7364435791969299
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 58 %
+Test Accuracy: 41 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:60]
+0 0.6990580558776855
+Accuracy: 81 %
+1 1.173280119895935
+Accuracy: 56 %
+2 0.6854417324066162
+Accuracy: 68 %
+3 1.0995607376098633
+Accuracy: 81 %
+4 1.025721788406372
+Accuracy: 68 %
+5 0.5474360585212708
+Accuracy: 68 %
+6 0.6539868116378784
+Accuracy: 75 %
+7 0.7835584878921509
+Accuracy: 81 %
+8 1.1073848009109497
+Accuracy: 56 %
+9 0.9675854444503784
+Accuracy: 56 %
+10 1.6348048448562622
+Accuracy: 37 %
+11 1.0625935792922974
+Accuracy: 75 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 41 %
+Test Accuracy: 29 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:61]
+0 1.3511348962783813
+Accuracy: 75 %
+1 1.094081163406372
+Accuracy: 87 %
+2 0.7853167653083801
+Accuracy: 75 %
+3 1.0503284931182861
+Accuracy: 56 %
+4 0.7896134853363037
+Accuracy: 87 %
+5 0.7446182370185852
+Accuracy: 81 %
+6 0.7357303500175476
+Accuracy: 75 %
+7 0.6660758256912231
+Accuracy: 81 %
+8 0.4007962942123413
+Accuracy: 100 %
+9 0.988608181476593
+Accuracy: 68 %
+10 1.0513211488723755
+Accuracy: 56 %
+11 2.1016759872436523
+Accuracy: 41 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 47 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 47 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:62]
+0 1.4057543277740479
+Accuracy: 75 %
+1 0.57072514295578
+Accuracy: 81 %
+2 0.7193589210510254
+Accuracy: 75 %
+3 0.7610483169555664
+Accuracy: 87 %
+4 1.1772443056106567
+Accuracy: 68 %
+5 0.5778456926345825
+Accuracy: 87 %
+6 1.1108959913253784
+Accuracy: 62 %
+7 0.7745370864868164
+Accuracy: 75 %
+8 0.6900478601455688
+Accuracy: 81 %
+9 0.4961605370044708
+Accuracy: 93 %
+10 1.0050125122070312
+Accuracy: 68 %
+11 0.726839005947113
+Accuracy: 75 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:63]
+0 0.9693604707717896
+Accuracy: 81 %
+1 0.7883936166763306
+Accuracy: 93 %
+2 0.5200747847557068
+Accuracy: 87 %
+3 1.1212044954299927
+Accuracy: 68 %
+4 0.8241918087005615
+Accuracy: 81 %
+5 0.8625825643539429
+Accuracy: 62 %
+6 0.37308549880981445
+Accuracy: 93 %
+7 0.7149899005889893
+Accuracy: 81 %
+8 0.9648022055625916
+Accuracy: 56 %
+9 0.7162038087844849
+Accuracy: 93 %
+10 0.7065732479095459
+Accuracy: 75 %
+11 1.475129246711731
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:64]
+0 0.8245432376861572
+Accuracy: 87 %
+1 0.7120575904846191
+Accuracy: 75 %
+2 1.209293246269226
+Accuracy: 56 %
+3 0.6599006652832031
+Accuracy: 93 %
+4 0.42484092712402344
+Accuracy: 93 %
+5 0.7741141319274902
+Accuracy: 75 %
+6 0.6418242454528809
+Accuracy: 68 %
+7 0.7185998558998108
+Accuracy: 75 %
+8 0.9984747767448425
+Accuracy: 62 %
+9 0.8491686582565308
+Accuracy: 62 %
+10 0.5661202073097229
+Accuracy: 81 %
+11 1.319507360458374
+Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:65]
+0 0.5908490419387817
+Accuracy: 81 %
+1 0.9989821910858154
+Accuracy: 62 %
+2 0.6254452466964722
+Accuracy: 81 %
+3 1.1189563274383545
+Accuracy: 68 %
+4 0.7490942478179932
+Accuracy: 75 %
+5 0.5173576474189758
+Accuracy: 75 %
+6 0.8304372429847717
+Accuracy: 56 %
+7 0.6939061284065247
+Accuracy: 50 %
+8 0.7172155976295471
+Accuracy: 68 %
+9 0.8014971017837524
+Accuracy: 43 %
+10 0.8610022664070129
+Accuracy: 68 %
+11 1.2573820352554321
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 52 %
+Test Accuracy: 52 %
+Test Accuracy: 0 %
+[epoch:66]
+0 0.5944432616233826
+Accuracy: 81 %
+1 0.8017499446868896
+Accuracy: 62 %
+2 0.7616428136825562
+Accuracy: 68 %
+3 0.8471740484237671
+Accuracy: 50 %
+4 0.7615095376968384
+Accuracy: 75 %
+5 0.8077221512794495
+Accuracy: 56 %
+6 0.357218861579895
+Accuracy: 68 %
+7 0.5782897472381592
+Accuracy: 81 %
+8 0.787284255027771
+Accuracy: 75 %
+9 0.7430424690246582
+Accuracy: 62 %
+10 1.0849719047546387
+Accuracy: 68 %
+11 0.5918283462524414
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:67]
+0 0.7440105080604553
+Accuracy: 87 %
+1 0.4979415833950043
+Accuracy: 87 %
+2 0.632715106010437
+Accuracy: 87 %
+3 0.5956599712371826
+Accuracy: 81 %
+4 1.235045313835144
+Accuracy: 68 %
+5 1.0887527465820312
+Accuracy: 68 %
+6 0.6622443795204163
+Accuracy: 75 %
+7 1.0829570293426514
+Accuracy: 62 %
+8 0.5125361680984497
+Accuracy: 93 %
+9 0.40041840076446533
+Accuracy: 87 %
+10 0.7849193811416626
+Accuracy: 81 %
+11 1.2753233909606934
+Accuracy: 58 %
+Test Accuracy: 35 %
+Test Accuracy: 41 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:68]
+0 0.8928519487380981
+Accuracy: 75 %
+1 0.7954953908920288
+Accuracy: 81 %
+2 0.6504163146018982
+Accuracy: 75 %
+3 0.994920015335083
+Accuracy: 62 %
+4 0.48140573501586914
+Accuracy: 81 %
+5 0.7631442546844482
+Accuracy: 87 %
+6 0.5475242733955383
+Accuracy: 81 %
+7 1.116390585899353
+Accuracy: 68 %
+8 1.6248844861984253
+Accuracy: 56 %
+9 0.6600463390350342
+Accuracy: 81 %
+10 0.9546165466308594
+Accuracy: 68 %
+11 0.634941816329956
+Accuracy: 66 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 41 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:69]
+0 0.7938456535339355
+Accuracy: 75 %
+1 0.6443440914154053
+Accuracy: 87 %
+2 0.4039149284362793
+Accuracy: 93 %
+3 1.0829145908355713
+Accuracy: 68 %
+4 0.8219125866889954
+Accuracy: 81 %
+5 1.1494275331497192
+Accuracy: 62 %
+6 0.47506844997406006
+Accuracy: 81 %
+7 0.470897912979126
+Accuracy: 93 %
+8 0.8702688217163086
+Accuracy: 62 %
+9 0.5086416006088257
+Accuracy: 68 %
+10 1.1385310888290405
+Accuracy: 43 %
+11 0.38267433643341064
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:70]
+0 0.7450873851776123
+Accuracy: 68 %
+1 0.6118913888931274
+Accuracy: 87 %
+2 0.9808450937271118
+Accuracy: 81 %
+3 1.2522847652435303
+Accuracy: 62 %
+4 0.7795830965042114
+Accuracy: 50 %
+5 0.2307756245136261
+Accuracy: 87 %
+6 1.0824640989303589
+Accuracy: 87 %
+7 0.7685846090316772
+Accuracy: 87 %
+8 1.0851143598556519
+Accuracy: 75 %
+9 0.8317242860794067
+Accuracy: 75 %
+10 0.5507239699363708
+Accuracy: 93 %
+11 1.3942465782165527
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:71]
+0 0.6021825075149536
+Accuracy: 87 %
+1 0.8594715595245361
+Accuracy: 62 %
+2 0.856813371181488
+Accuracy: 81 %
+3 0.9717212915420532
+Accuracy: 87 %
+4 2.053635358810425
+Accuracy: 56 %
+5 1.2923284769058228
+Accuracy: 87 %
+6 1.0035455226898193
+Accuracy: 56 %
+7 0.8040933609008789
+Accuracy: 62 %
+8 0.8737106919288635
+Accuracy: 75 %
+9 0.8276277184486389
+Accuracy: 68 %
+10 0.6965728998184204
+Accuracy: 50 %
+11 1.39374840259552
+Accuracy: 50 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 52 %
+Test Accuracy: 29 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 41 %
+Test Accuracy: 0 %
+[epoch:72]
+0 0.8269819021224976
+Accuracy: 87 %
+1 0.5152906179428101
+Accuracy: 75 %
+2 0.7654055953025818
+Accuracy: 81 %
+3 0.6170920133590698
+Accuracy: 50 %
+4 0.997249960899353
+Accuracy: 50 %
+5 0.703668475151062
+Accuracy: 75 %
+6 0.7068268060684204
+Accuracy: 87 %
+7 0.8676248788833618
+Accuracy: 68 %
+8 0.8184068202972412
+Accuracy: 75 %
+9 0.5281577110290527
+Accuracy: 81 %
+10 0.9289681315422058
+Accuracy: 68 %
+11 0.7179824709892273
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 52 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:73]
+0 0.6942025423049927
+Accuracy: 81 %
+1 0.5390191078186035
+Accuracy: 81 %
+2 0.5970930457115173
+Accuracy: 81 %
+3 0.5443844795227051
+Accuracy: 87 %
+4 0.9617058038711548
+Accuracy: 62 %
+5 1.151756763458252
+Accuracy: 50 %
+6 0.5339248180389404
+Accuracy: 75 %
+7 0.7276734709739685
+Accuracy: 62 %
+8 0.7898615002632141
+Accuracy: 68 %
+9 0.8352708220481873
+Accuracy: 75 %
+10 0.41022759675979614
+Accuracy: 75 %
+11 0.618128776550293
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:74]
+0 0.3088531494140625
+Accuracy: 93 %
+1 0.3964580297470093
+Accuracy: 87 %
+2 0.5046510100364685
+Accuracy: 100 %
+3 0.8998119831085205
+Accuracy: 62 %
+4 0.549224853515625
+Accuracy: 93 %
+5 1.1315670013427734
+Accuracy: 75 %
+6 0.4427233040332794
+Accuracy: 87 %
+7 1.131037712097168
+Accuracy: 56 %
+8 0.6304847598075867
+Accuracy: 81 %
+9 0.8057770729064941
+Accuracy: 75 %
+10 0.8464832901954651
+Accuracy: 81 %
+11 0.7548450827598572
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 52 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:75]
+0 0.7710162401199341
+Accuracy: 62 %
+1 1.0632127523422241
+Accuracy: 75 %
+2 0.3976902663707733
+Accuracy: 81 %
+3 1.049471378326416
+Accuracy: 75 %
+4 1.0392236709594727
+Accuracy: 56 %
+5 0.7095144391059875
+Accuracy: 75 %
+6 0.773868978023529
+Accuracy: 75 %
+7 0.8619232773780823
+Accuracy: 68 %
+8 1.2659587860107422
+Accuracy: 62 %
+9 0.5248514413833618
+Accuracy: 75 %
+10 0.6885256171226501
+Accuracy: 68 %
+11 0.8642813563346863
+Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:76]
+0 0.7575430870056152
+Accuracy: 93 %
+1 1.0425853729248047
+Accuracy: 68 %
+2 0.9357252717018127
+Accuracy: 81 %
+3 0.9711436629295349
+Accuracy: 81 %
+4 0.8657792806625366
+Accuracy: 81 %
+5 0.872395396232605
+Accuracy: 81 %
+6 0.7013247609138489
+Accuracy: 87 %
+7 1.1585466861724854
+Accuracy: 81 %
+8 0.9766069650650024
+Accuracy: 68 %
+9 0.6303057074546814
+Accuracy: 81 %
+10 1.3224565982818604
+Accuracy: 37 %
+11 1.5146857500076294
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:77]
+0 0.49195799231529236
+Accuracy: 75 %
+1 0.7940118312835693
+Accuracy: 68 %
+2 1.412420630455017
+Accuracy: 56 %
+3 0.7302951812744141
+Accuracy: 75 %
+4 0.5501711368560791
+Accuracy: 75 %
+5 1.2612746953964233
+Accuracy: 56 %
+6 0.6280543804168701
+Accuracy: 81 %
+7 0.696375846862793
+Accuracy: 62 %
+8 1.040805697441101
+Accuracy: 62 %
+9 0.7032018303871155
+Accuracy: 62 %
+10 1.2654439210891724
+Accuracy: 68 %
+11 0.9663906097412109
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 29 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:78]
+0 0.9460728168487549
+Accuracy: 81 %
+1 1.1214765310287476
+Accuracy: 68 %
+2 0.6312175393104553
+Accuracy: 68 %
+3 0.8325299024581909
+Accuracy: 62 %
+4 0.6258459091186523
+Accuracy: 81 %
+5 0.6039601564407349
+Accuracy: 75 %
+6 0.5886731147766113
+Accuracy: 81 %
+7 0.7176696062088013
+Accuracy: 75 %
+8 0.5624791979789734
+Accuracy: 75 %
+9 0.6034902334213257
+Accuracy: 75 %
+10 1.109182357788086
+Accuracy: 68 %
+11 0.5945330262184143
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:79]
+0 0.41273707151412964
+Accuracy: 81 %
+1 0.7784730195999146
+Accuracy: 56 %
+2 0.7437029480934143
+Accuracy: 68 %
+3 0.41100141406059265
+Accuracy: 75 %
+4 0.9301843643188477
+Accuracy: 75 %
+5 1.2437984943389893
+Accuracy: 81 %
+6 0.6615755558013916
+Accuracy: 81 %
+7 0.772544264793396
+Accuracy: 68 %
+8 0.6570019721984863
+Accuracy: 87 %
+9 0.7200984954833984
+Accuracy: 75 %
+10 0.9496912956237793
+Accuracy: 62 %
+11 1.2131928205490112
+Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:80]
+0 0.8665054440498352
+Accuracy: 75 %
+1 0.9282909035682678
+Accuracy: 81 %
+2 1.1714224815368652
+Accuracy: 62 %
+3 1.0232652425765991
+Accuracy: 81 %
+4 0.6262871026992798
+Accuracy: 68 %
+5 0.7251150608062744
+Accuracy: 50 %
+6 0.9389079213142395
+Accuracy: 68 %
+7 0.588693380355835
+Accuracy: 68 %
+8 0.895555317401886
+Accuracy: 75 %
+9 1.6762317419052124
+Accuracy: 62 %
+10 1.173689365386963
+Accuracy: 62 %
+11 0.7126408219337463
+Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:81]
+0 1.0110814571380615
+Accuracy: 62 %
+1 0.7399173974990845
+Accuracy: 81 %
+2 0.9599364995956421
+Accuracy: 75 %
+3 0.9824831485748291
+Accuracy: 68 %
+4 1.2993736267089844
+Accuracy: 87 %
+5 1.64646315574646
+Accuracy: 50 %
+6 0.5633622407913208
+Accuracy: 75 %
+7 1.3778600692749023
+Accuracy: 75 %
+8 0.6781519651412964
+Accuracy: 75 %
+9 0.7901567816734314
+Accuracy: 87 %
+10 0.9860972166061401
+Accuracy: 87 %
+11 0.6890379786491394
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:82]
+0 0.6194816827774048
+Accuracy: 81 %
+1 0.659963846206665
+Accuracy: 87 %
+2 0.6832886338233948
+Accuracy: 81 %
+3 0.834592878818512
+Accuracy: 68 %
+4 0.7262004613876343
+Accuracy: 75 %
+5 0.6473596692085266
+Accuracy: 93 %
+6 1.4695936441421509
+Accuracy: 81 %
+7 0.8723157048225403
+Accuracy: 68 %
+8 0.48994359374046326
+Accuracy: 75 %
+9 0.8834912180900574
+Accuracy: 75 %
+10 0.9180760979652405
+Accuracy: 68 %
+11 0.5522783398628235
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:83]
+0 0.9283929467201233
+Accuracy: 50 %
+1 0.7196277379989624
+Accuracy: 81 %
+2 0.5424799919128418
+Accuracy: 87 %
+3 0.698346734046936
+Accuracy: 87 %
+4 0.6657955050468445
+Accuracy: 81 %
+5 1.084712266921997
+Accuracy: 81 %
+6 0.8805714249610901
+Accuracy: 62 %
+7 0.7656586170196533
+Accuracy: 68 %
+8 0.8173595666885376
+Accuracy: 62 %
+9 0.7731736898422241
+Accuracy: 81 %
+10 0.473871648311615
+Accuracy: 87 %
+11 0.788922131061554
+Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 47 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:84]
+0 0.8562809228897095
+Accuracy: 81 %
+1 0.9281851649284363
+Accuracy: 75 %
+2 1.0126948356628418
+Accuracy: 93 %
+3 0.9275356531143188
+Accuracy: 81 %
+4 0.4888492226600647
+Accuracy: 100 %
+5 0.6777727603912354
+Accuracy: 75 %
+6 0.6116961240768433
+Accuracy: 75 %
+7 1.45155668258667
+Accuracy: 75 %
+8 0.512112021446228
+Accuracy: 100 %
+9 0.7265890836715698
+Accuracy: 81 %
+10 0.8008370399475098
+Accuracy: 75 %
+11 0.9368459582328796
+Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:85]
+0 0.6650183200836182
+Accuracy: 81 %
+1 1.1960885524749756
+Accuracy: 62 %
+2 0.6478398442268372
+Accuracy: 75 %
+3 0.5868226289749146
+Accuracy: 81 %
+4 0.8639897704124451
+Accuracy: 75 %
+5 0.6580932140350342
+Accuracy: 93 %
+6 0.7165977358818054
+Accuracy: 75 %
+7 0.746957540512085
+Accuracy: 93 %
+8 0.6583790183067322
+Accuracy: 93 %
+9 0.6939587593078613
+Accuracy: 81 %
+10 0.6628341674804688
+Accuracy: 75 %
+11 0.5335898995399475
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:86]
+0 0.6473167538642883
+Accuracy: 87 %
+1 0.4419516921043396
+Accuracy: 81 %
+2 0.6053725481033325
+Accuracy: 81 %
+3 0.910254716873169
+Accuracy: 75 %
+4 0.466458797454834
+Accuracy: 87 %
+5 0.8631293177604675
+Accuracy: 62 %
+6 1.0780647993087769
+Accuracy: 56 %
+7 0.8854465484619141
+Accuracy: 75 %
+8 0.5968531966209412
+Accuracy: 81 %
+9 1.2583879232406616
+Accuracy: 75 %
+10 0.3131215572357178
+Accuracy: 75 %
+11 0.716834545135498
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 23 %
+Test Accuracy: 35 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:87]
+0 0.39744874835014343
+Accuracy: 81 %
+1 1.3282794952392578
+Accuracy: 62 %
+2 0.6394380331039429
+Accuracy: 62 %
+3 0.891923189163208
+Accuracy: 37 %
+4 1.1309657096862793
+Accuracy: 50 %
+5 2.2379043102264404
+Accuracy: 37 %
+6 0.6107032299041748
+Accuracy: 68 %
+7 0.6758811473846436
+Accuracy: 75 %
+8 1.0166677236557007
+Accuracy: 68 %
+9 0.3660893440246582
+Accuracy: 68 %
+10 0.4964873790740967
+Accuracy: 68 %
+11 1.1601343154907227
+Accuracy: 58 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 41 %
+Test Accuracy: 29 %
+Test Accuracy: 23 %
+Test Accuracy: 0 %
+[epoch:88]
+0 0.6335982084274292
+Accuracy: 56 %
+1 1.0287612676620483
+Accuracy: 62 %
+2 0.6078583002090454
+Accuracy: 56 %
+3 0.7270760536193848
+Accuracy: 50 %
+4 0.9087150692939758
+Accuracy: 50 %
+5 0.9167720079421997
+Accuracy: 62 %
+6 1.5812203884124756
+Accuracy: 62 %
+7 0.5788369178771973
+Accuracy: 75 %
+8 0.7287652492523193
+Accuracy: 56 %
+9 1.0588500499725342
+Accuracy: 62 %
+10 0.8318771719932556
+Accuracy: 68 %
+11 1.2049109935760498
+Accuracy: 41 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 35 %
+Test Accuracy: 17 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:89]
+0 0.7790606617927551
+Accuracy: 68 %
+1 0.735596776008606
+Accuracy: 62 %
+2 0.6249509453773499
+Accuracy: 75 %
+3 0.6552990078926086
+Accuracy: 87 %
+4 0.7751731872558594
+Accuracy: 87 %
+5 0.6465646624565125
+Accuracy: 75 %
+6 0.9931283593177795
+Accuracy: 68 %
+7 0.7982611656188965
+Accuracy: 68 %
+8 0.641858696937561
+Accuracy: 68 %
+9 0.31206053495407104
+Accuracy: 100 %
+10 0.9264729022979736
+Accuracy: 62 %
+11 0.840322732925415
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:90]
+0 0.7595022320747375
+Accuracy: 87 %
+1 1.5589231252670288
+Accuracy: 50 %
+2 0.8480750322341919
+Accuracy: 62 %
+3 0.5269181728363037
+Accuracy: 75 %
+4 0.683606743812561
+Accuracy: 75 %
+5 0.7368303537368774
+Accuracy: 81 %
+6 0.487712025642395
+Accuracy: 68 %
+7 1.158477783203125
+Accuracy: 81 %
+8 0.5188819169998169
+Accuracy: 68 %
+9 0.5185349583625793
+Accuracy: 93 %
+10 0.9089487791061401
+Accuracy: 75 %
+11 0.8282942771911621
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:91]
+0 0.570962131023407
+Accuracy: 87 %
+1 0.6327258348464966
+Accuracy: 75 %
+2 0.8883952498435974
+Accuracy: 81 %
+3 1.1474456787109375
+Accuracy: 62 %
+4 0.7481087446212769
+Accuracy: 68 %
+5 0.6747744679450989
+Accuracy: 68 %
+6 0.39566177129745483
+Accuracy: 87 %
+7 0.3486948609352112
+Accuracy: 100 %
+8 0.41936060786247253
+Accuracy: 87 %
+9 0.8514047265052795
+Accuracy: 87 %
+10 1.4860457181930542
+Accuracy: 75 %
+11 0.7347164154052734
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:92]
+0 0.7615782618522644
+Accuracy: 56 %
+1 0.674836277961731
+Accuracy: 87 %
+2 0.4074457883834839
+Accuracy: 81 %
+3 0.7090157270431519
+Accuracy: 81 %
+4 0.5720171928405762
+Accuracy: 75 %
+5 0.6361615657806396
+Accuracy: 81 %
+6 0.559787929058075
+Accuracy: 75 %
+7 0.6439441442489624
+Accuracy: 75 %
+8 0.7428444027900696
+Accuracy: 81 %
+9 0.6324041485786438
+Accuracy: 75 %
+10 0.4973165690898895
+Accuracy: 93 %
+11 1.315858006477356
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:93]
+0 0.6049530506134033
+Accuracy: 93 %
+1 0.6067391633987427
+Accuracy: 81 %
+2 1.1065301895141602
+Accuracy: 75 %
+3 0.8605663180351257
+Accuracy: 68 %
+4 0.9063631892204285
+Accuracy: 100 %
+5 0.7781738638877869
+Accuracy: 75 %
+6 0.8977516293525696
+Accuracy: 68 %
+7 0.4761202931404114
+Accuracy: 81 %
+8 0.17315791547298431
+Accuracy: 93 %
+9 0.9017602205276489
+Accuracy: 68 %
+10 0.678801417350769
+Accuracy: 81 %
+11 0.9736973643302917
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 47 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:94]
+0 0.9866237044334412
+Accuracy: 87 %
+1 0.415747731924057
+Accuracy: 81 %
+2 0.8249757289886475
+Accuracy: 87 %
+3 1.0546655654907227
+Accuracy: 68 %
+4 0.6583503484725952
+Accuracy: 68 %
+5 1.0134248733520508
+Accuracy: 81 %
+6 1.0511194467544556
+Accuracy: 68 %
+7 0.6066283583641052
+Accuracy: 75 %
+8 0.9958592653274536
+Accuracy: 62 %
+9 0.6079089641571045
+Accuracy: 81 %
+10 0.4022286534309387
+Accuracy: 93 %
+11 0.5409811735153198
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:95]
+0 0.9089219570159912
+Accuracy: 81 %
+1 0.5126142501831055
+Accuracy: 87 %
+2 0.6670516729354858
+Accuracy: 75 %
+3 1.1759928464889526
+Accuracy: 62 %
+4 0.5947158932685852
+Accuracy: 75 %
+5 0.8414514064788818
+Accuracy: 81 %
+6 1.3483127355575562
+Accuracy: 50 %
+7 0.5329387187957764
+Accuracy: 81 %
+8 0.7142751812934875
+Accuracy: 75 %
+9 0.6823599338531494
+Accuracy: 75 %
+10 1.0667790174484253
+Accuracy: 50 %
+11 1.6058765649795532
+Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 47 %
+Test Accuracy: 52 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:96]
+0 0.5829083919525146
+Accuracy: 62 %
+1 0.5761569738388062
+Accuracy: 75 %
+2 1.0655019283294678
+Accuracy: 62 %
+3 0.7241857051849365
+Accuracy: 75 %
+4 0.7909717559814453
+Accuracy: 75 %
+5 0.9643931984901428
+Accuracy: 87 %
+6 1.0590341091156006
+Accuracy: 62 %
+7 1.024164080619812
+Accuracy: 68 %
+8 0.4257432520389557
+Accuracy: 75 %
+9 1.232566475868225
+Accuracy: 43 %
+10 0.9709118604660034
+Accuracy: 81 %
+11 0.89317387342453
+Accuracy: 41 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:97]
+0 0.7384375333786011
+Accuracy: 81 %
+1 0.8418925404548645
+Accuracy: 81 %
+2 0.7122904062271118
+Accuracy: 81 %
+3 0.6172800064086914
+Accuracy: 87 %
+4 0.6624035239219666
+Accuracy: 87 %
+5 1.0769577026367188
+Accuracy: 68 %
+6 0.646674394607544
+Accuracy: 56 %
+7 0.8504855036735535
+Accuracy: 68 %
+8 0.8496241569519043
+Accuracy: 81 %
+9 1.1009953022003174
+Accuracy: 68 %
+10 0.4252871870994568
+Accuracy: 75 %
+11 0.3355441987514496
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 52 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:98]
+0 0.48256629705429077
+Accuracy: 81 %
+1 0.9664924144744873
+Accuracy: 62 %
+2 0.31595173478126526
+Accuracy: 93 %
+3 0.7233486175537109
+Accuracy: 75 %
+4 0.7989097833633423
+Accuracy: 68 %
+5 0.9266605377197266
+Accuracy: 68 %
+6 0.541448712348938
+Accuracy: 75 %
+7 0.7707539796829224
+Accuracy: 75 %
+8 0.7013643980026245
+Accuracy: 87 %
+9 1.2102738618850708
+Accuracy: 56 %
+10 1.012133240699768
+Accuracy: 87 %
+11 0.8729090690612793
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:99]
+0 0.558519184589386
+Accuracy: 87 %
+1 0.5474499464035034
+Accuracy: 81 %
+2 0.22194568812847137
+Accuracy: 93 %
+3 0.4028492569923401
+Accuracy: 75 %
+4 1.7061362266540527
+Accuracy: 50 %
+5 0.49002259969711304
+Accuracy: 68 %
+6 0.5430174469947815
+Accuracy: 68 %
+7 0.9463672637939453
+Accuracy: 31 %
+8 0.6915038228034973
+Accuracy: 62 %
+9 1.3730547428131104
+Accuracy: 50 %
+10 0.5074286460876465
+Accuracy: 81 %
+11 0.6037853360176086
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 47 %
+Test Accuracy: 35 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:100]
+0 0.35176777839660645
+Accuracy: 87 %
+1 0.5133897662162781
+Accuracy: 75 %
+2 0.6151162981987
+Accuracy: 87 %
+3 0.48193201422691345
+Accuracy: 93 %
+4 1.0245826244354248
+Accuracy: 75 %
+5 0.7219349145889282
+Accuracy: 81 %
+6 0.79881352186203
+Accuracy: 81 %
+7 0.4485790729522705
+Accuracy: 93 %
+8 1.3398829698562622
+Accuracy: 62 %
+9 0.6255806684494019
+Accuracy: 81 %
+10 0.6380378007888794
+Accuracy: 56 %
+11 1.033610224723816
+Accuracy: 83 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:101]
+0 0.6909987330436707
+Accuracy: 75 %
+1 0.3853967487812042
+Accuracy: 81 %
+2 0.9070896506309509
+Accuracy: 75 %
+3 0.599872350692749
+Accuracy: 81 %
+4 0.8274184465408325
+Accuracy: 87 %
+5 0.4902491569519043
+Accuracy: 87 %
+6 0.5823010206222534
+Accuracy: 93 %
+7 0.7780181169509888
+Accuracy: 93 %
+8 1.082655668258667
+Accuracy: 68 %
+9 0.7428449988365173
+Accuracy: 68 %
+10 0.36610037088394165
+Accuracy: 93 %
+11 0.6202743649482727
+Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 35 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:102]
+0 0.30951249599456787
+Accuracy: 81 %
+1 0.7055737972259521
+Accuracy: 62 %
+2 0.712246835231781
+Accuracy: 81 %
+3 0.46835654973983765
+Accuracy: 93 %
+4 0.45673447847366333
+Accuracy: 81 %
+5 1.0817667245864868
+Accuracy: 56 %
+6 0.5670604705810547
+Accuracy: 93 %
+7 0.7327234148979187
+Accuracy: 81 %
+8 0.33119094371795654
+Accuracy: 87 %
+9 1.4965988397598267
+Accuracy: 75 %
+10 0.7256211638450623
+Accuracy: 87 %
+11 0.5188893675804138
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:103]
+0 0.7188864946365356
+Accuracy: 81 %
+1 1.0113391876220703
+Accuracy: 81 %
+2 0.36905741691589355
+Accuracy: 93 %
+3 0.6039365530014038
+Accuracy: 87 %
+4 0.5959910750389099
+Accuracy: 87 %
+5 0.6731582283973694
+Accuracy: 62 %
+6 0.6311207413673401
+Accuracy: 87 %
+7 0.6913610100746155
+Accuracy: 81 %
+8 0.7057729959487915
+Accuracy: 62 %
+9 1.37913179397583
+Accuracy: 81 %
+10 0.6422288417816162
+Accuracy: 75 %
+11 0.8425021767616272
+Accuracy: 58 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:104]
+0 0.4787473678588867
+Accuracy: 68 %
+1 0.653804361820221
+Accuracy: 81 %
+2 0.7024098038673401
+Accuracy: 81 %
+3 0.4724437892436981
+Accuracy: 75 %
+4 0.9758775234222412
+Accuracy: 56 %
+5 0.8972046375274658
+Accuracy: 87 %
+6 0.6824796795845032
+Accuracy: 75 %
+7 0.652572512626648
+Accuracy: 75 %
+8 0.26278719305992126
+Accuracy: 100 %
+9 0.6554770469665527
+Accuracy: 87 %
+10 0.8466466665267944
+Accuracy: 87 %
+11 0.42870211601257324
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:105]
+0 0.38718944787979126
+Accuracy: 87 %
+1 0.7165918946266174
+Accuracy: 68 %
+2 0.4652089774608612
+Accuracy: 93 %
+3 0.6619337201118469
+Accuracy: 81 %
+4 0.4566713571548462
+Accuracy: 75 %
+5 0.4362792372703552
+Accuracy: 87 %
+6 0.6998316049575806
+Accuracy: 93 %
+7 1.0567716360092163
+Accuracy: 81 %
+8 0.5741961598396301
+Accuracy: 87 %
+9 0.9482607841491699
+Accuracy: 81 %
+10 0.8571285009384155
+Accuracy: 93 %
+11 0.5463507771492004
+Accuracy: 66 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:106]
+0 0.39144599437713623
+Accuracy: 87 %
+1 0.8320969343185425
+Accuracy: 56 %
+2 0.7528843879699707
+Accuracy: 56 %
+3 0.5834178328514099
+Accuracy: 75 %
+4 0.922607421875
+Accuracy: 56 %
+5 1.1372458934783936
+Accuracy: 62 %
+6 1.1165021657943726
+Accuracy: 62 %
+7 0.5661985874176025
+Accuracy: 68 %
+8 0.4822779595851898
+Accuracy: 93 %
+9 0.895517110824585
+Accuracy: 81 %
+10 0.8433276414871216
+Accuracy: 62 %
+11 1.7169718742370605
+Accuracy: 75 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 47 %
+Test Accuracy: 23 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:107]
+0 0.4038466215133667
+Accuracy: 81 %
+1 0.572970449924469
+Accuracy: 75 %
+2 0.8396527767181396
+Accuracy: 56 %
+3 0.69596266746521
+Accuracy: 87 %
+4 0.7559131383895874
+Accuracy: 62 %
+5 0.6281019449234009
+Accuracy: 75 %
+6 1.110117793083191
+Accuracy: 62 %
+7 0.7890609502792358
+Accuracy: 75 %
+8 0.9994895458221436
+Accuracy: 75 %
+9 1.001167893409729
+Accuracy: 62 %
+10 0.7192344665527344
+Accuracy: 81 %
+11 0.8033571839332581
+Accuracy: 83 %
+Test Accuracy: 76 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:108]
+0 0.8747203350067139
+Accuracy: 81 %
+1 0.6480443477630615
+Accuracy: 81 %
+2 1.0015143156051636
+Accuracy: 62 %
+3 0.7812730669975281
+Accuracy: 75 %
+4 0.7689996361732483
+Accuracy: 87 %
+5 0.7782466411590576
+Accuracy: 87 %
+6 0.48434919118881226
+Accuracy: 87 %
+7 0.6731960773468018
+Accuracy: 75 %
+8 1.149240255355835
+Accuracy: 81 %
+9 0.5541734099388123
+Accuracy: 87 %
+10 0.6349384784698486
+Accuracy: 87 %
+11 0.3790351152420044
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:109]
+0 0.4076143801212311
+Accuracy: 93 %
+1 0.40273070335388184
+Accuracy: 81 %
+2 0.4973014295101166
+Accuracy: 93 %
+3 0.9351093173027039
+Accuracy: 56 %
+4 0.3834264278411865
+Accuracy: 81 %
+5 0.9501016736030579
+Accuracy: 87 %
+6 0.41666287183761597
+Accuracy: 87 %
+7 0.8426511883735657
+Accuracy: 81 %
+8 0.4754406809806824
+Accuracy: 81 %
+9 1.353639006614685
+Accuracy: 87 %
+10 1.0940196514129639
+Accuracy: 68 %
+11 0.4423140585422516
+Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:110]
+0 0.5565479397773743
+Accuracy: 75 %
+1 0.6377644538879395
+Accuracy: 81 %
+2 0.42189058661460876
+Accuracy: 93 %
+3 0.4832051396369934
+Accuracy: 87 %
+4 0.5594202876091003
+Accuracy: 87 %
+5 0.5148334503173828
+Accuracy: 93 %
+6 0.6079236268997192
+Accuracy: 87 %
+7 0.23640014231204987
+Accuracy: 100 %
+8 0.7440083026885986
+Accuracy: 68 %
+9 0.8264670372009277
+Accuracy: 87 %
+10 1.1298638582229614
+Accuracy: 75 %
+11 0.6533051133155823
+Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 52 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:111]
+0 0.5122671127319336
+Accuracy: 93 %
+1 0.25610774755477905
+Accuracy: 81 %
+2 1.2776074409484863
+Accuracy: 75 %
+3 0.3096315860748291
+Accuracy: 93 %
+4 0.7728570699691772
+Accuracy: 93 %
+5 0.8391530513763428
+Accuracy: 75 %
+6 0.4369491934776306
+Accuracy: 68 %
+7 0.6408597826957703
+Accuracy: 68 %
+8 1.2033525705337524
+Accuracy: 87 %
+9 0.8570289611816406
+Accuracy: 75 %
+10 0.7823339700698853
+Accuracy: 87 %
+11 1.0250948667526245
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:112]
+0 0.47166547179222107
+Accuracy: 93 %
+1 0.40545570850372314
+Accuracy: 93 %
+2 0.4892209470272064
+Accuracy: 81 %
+3 0.7051647901535034
+Accuracy: 81 %
+4 0.8153645396232605
+Accuracy: 81 %
+5 1.2196316719055176
+Accuracy: 75 %
+6 0.6778426170349121
+Accuracy: 75 %
+7 1.1079885959625244
+Accuracy: 75 %
+8 0.8701620101928711
+Accuracy: 62 %
+9 0.9394683837890625
+Accuracy: 56 %
+10 0.5353096723556519
+Accuracy: 68 %
+11 0.8463807702064514
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:113]
+0 1.1890153884887695
+Accuracy: 68 %
+1 0.5363877415657043
+Accuracy: 75 %
+2 0.6623849868774414
+Accuracy: 81 %
+3 0.6558486223220825
+Accuracy: 87 %
+4 0.8636075258255005
+Accuracy: 81 %
+5 0.8537773489952087
+Accuracy: 75 %
+6 0.9282796382904053
+Accuracy: 93 %
+7 0.6381106376647949
+Accuracy: 81 %
+8 1.1397175788879395
+Accuracy: 62 %
+9 0.8539609909057617
+Accuracy: 81 %
+10 0.8082660436630249
+Accuracy: 75 %
+11 1.5920912027359009
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 58 %
+Test Accuracy: 58 %
+Test Accuracy: 100 %
+[epoch:114]
+0 0.8834428787231445
+Accuracy: 81 %
+1 0.8224257230758667
+Accuracy: 68 %
+2 0.6899838447570801
+Accuracy: 75 %
+3 0.9821931719779968
+Accuracy: 81 %
+4 0.27473264932632446
+Accuracy: 100 %
+5 0.6845905780792236
+Accuracy: 75 %
+6 0.7958970069885254
+Accuracy: 75 %
+7 0.815566897392273
+Accuracy: 75 %
+8 0.6620192527770996
+Accuracy: 75 %
+9 0.7527227401733398
+Accuracy: 81 %
+10 0.7750051021575928
+Accuracy: 75 %
+11 1.126900553703308
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 41 %
+Test Accuracy: 58 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:115]
+0 0.6974055767059326
+Accuracy: 75 %
+1 0.42765504121780396
+Accuracy: 93 %
+2 0.476228803396225
+Accuracy: 100 %
+3 0.8075871467590332
+Accuracy: 87 %
+4 0.6822713613510132
+Accuracy: 68 %
+5 0.9775773286819458
+Accuracy: 68 %
+6 0.33174991607666016
+Accuracy: 93 %
+7 0.44362011551856995
+Accuracy: 81 %
+8 0.3072624206542969
+Accuracy: 100 %
+9 0.824160099029541
+Accuracy: 68 %
+10 0.6577110290527344
+Accuracy: 75 %
+11 0.746147871017456
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:116]
+0 0.5573218464851379
+Accuracy: 87 %
+1 0.5423447489738464
+Accuracy: 93 %
+2 0.7870326638221741
+Accuracy: 75 %
+3 0.8385831713676453
+Accuracy: 62 %
+4 0.4368933439254761
+Accuracy: 93 %
+5 0.3626818358898163
+Accuracy: 93 %
+6 0.4610302448272705
+Accuracy: 87 %
+7 0.7635889053344727
+Accuracy: 75 %
+8 0.41751033067703247
+Accuracy: 87 %
+9 0.4035302400588989
+Accuracy: 93 %
+10 0.590916097164154
+Accuracy: 75 %
+11 0.8162063956260681
+Accuracy: 75 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:117]
+0 0.54169762134552
+Accuracy: 81 %
+1 0.9169455766677856
+Accuracy: 68 %
+2 0.6149106025695801
+Accuracy: 93 %
+3 0.6354343295097351
+Accuracy: 87 %
+4 0.6865898966789246
+Accuracy: 62 %
+5 0.6203231811523438
+Accuracy: 87 %
+6 0.5205485820770264
+Accuracy: 100 %
+7 0.49202924966812134
+Accuracy: 62 %
+8 0.5997252464294434
+Accuracy: 81 %
+9 0.7173920273780823
+Accuracy: 75 %
+10 0.294658899307251
+Accuracy: 87 %
+11 0.6301534175872803
+Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:118]
+0 0.4988136291503906
+Accuracy: 93 %
+1 0.40501686930656433
+Accuracy: 87 %
+2 1.0059601068496704
+Accuracy: 75 %
+3 0.3892076909542084
+Accuracy: 87 %
+4 0.485476553440094
+Accuracy: 87 %
+5 0.49906978011131287
+Accuracy: 87 %
+6 0.38823944330215454
+Accuracy: 93 %
+7 1.3922631740570068
+Accuracy: 75 %
+8 0.33690840005874634
+Accuracy: 93 %
+9 0.7443503141403198
+Accuracy: 81 %
+10 0.36519384384155273
+Accuracy: 87 %
+11 0.4563566744327545
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:119]
+0 0.7517123222351074
+Accuracy: 68 %
+1 0.24458907544612885
+Accuracy: 93 %
+2 1.5527362823486328
+Accuracy: 62 %
+3 0.260448157787323
+Accuracy: 81 %
+4 0.3437132239341736
+Accuracy: 93 %
+5 0.6932237148284912
+Accuracy: 93 %
+6 0.6820040941238403
+Accuracy: 62 %
+7 0.5618389844894409
+Accuracy: 93 %
+8 1.2370771169662476
+Accuracy: 81 %
+9 0.282024085521698
+Accuracy: 81 %
+10 0.8068496584892273
+Accuracy: 75 %
+11 0.5796913504600525
+Accuracy: 91 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:120]
+0 0.4271466135978699
+Accuracy: 93 %
+1 0.3975413739681244
+Accuracy: 87 %
+2 0.6096240878105164
+Accuracy: 81 %
+3 0.513656497001648
+Accuracy: 75 %
+4 0.6391350030899048
+Accuracy: 62 %
+5 0.4080263376235962
+Accuracy: 81 %
+6 0.3830626606941223
+Accuracy: 81 %
+7 0.3877573013305664
+Accuracy: 93 %
+8 0.7245079874992371
+Accuracy: 87 %
+9 0.8927990198135376
+Accuracy: 81 %
+10 0.9538779258728027
+Accuracy: 68 %
+11 0.8497870564460754
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:121]
+0 0.457518607378006
+Accuracy: 87 %
+1 0.506752610206604
+Accuracy: 75 %
+2 0.23160946369171143
+Accuracy: 81 %
+3 1.0615856647491455
+Accuracy: 75 %
+4 0.6299765110015869
+Accuracy: 93 %
+5 0.37128517031669617
+Accuracy: 75 %
+6 0.49222332239151
+Accuracy: 87 %
+7 0.6212296485900879
+Accuracy: 87 %
+8 0.8955541253089905
+Accuracy: 75 %
+9 1.1628938913345337
+Accuracy: 75 %
+10 0.3294435441493988
+Accuracy: 81 %
+11 0.39977505803108215
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:122]
+0 0.7548080682754517
+Accuracy: 75 %
+1 0.7187061309814453
+Accuracy: 81 %
+2 0.3618497848510742
+Accuracy: 81 %
+3 0.7179161906242371
+Accuracy: 87 %
+4 0.45254772901535034
+Accuracy: 93 %
+5 1.0654289722442627
+Accuracy: 81 %
+6 0.5134069323539734
+Accuracy: 87 %
+7 0.39880162477493286
+Accuracy: 87 %
+8 0.6394999027252197
+Accuracy: 81 %
+9 1.3352134227752686
+Accuracy: 75 %
+10 0.6096755266189575
+Accuracy: 75 %
+11 1.0243570804595947
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:123]
+0 0.357313334941864
+Accuracy: 75 %
+1 0.6312865018844604
+Accuracy: 93 %
+2 0.6583602428436279
+Accuracy: 68 %
+3 0.3813658058643341
+Accuracy: 87 %
+4 0.6964040994644165
+Accuracy: 81 %
+5 0.8847039937973022
+Accuracy: 62 %
+6 0.5934582352638245
+Accuracy: 81 %
+7 0.30145424604415894
+Accuracy: 81 %
+8 0.4207693636417389
+Accuracy: 75 %
+9 0.7491258382797241
+Accuracy: 81 %
+10 0.5844107866287231
+Accuracy: 87 %
+11 0.45680201053619385
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:124]
+0 0.36778369545936584
+Accuracy: 100 %
+1 0.7064893245697021
+Accuracy: 87 %
+2 0.3938070237636566
+Accuracy: 93 %
+3 0.4056161940097809
+Accuracy: 81 %
+4 0.5508911609649658
+Accuracy: 87 %
+5 0.7239612340927124
+Accuracy: 75 %
+6 1.021883249282837
+Accuracy: 75 %
+7 0.4764145016670227
+Accuracy: 87 %
+8 0.7138134241104126
+Accuracy: 100 %
+9 0.5782080888748169
+Accuracy: 81 %
+10 0.675055980682373
+Accuracy: 87 %
+11 0.6674901843070984
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:125]
+0 0.5180048942565918
+Accuracy: 93 %
+1 0.7702762484550476
+Accuracy: 81 %
+2 0.4422573745250702
+Accuracy: 87 %
+3 0.5995063781738281
+Accuracy: 81 %
+4 0.48376286029815674
+Accuracy: 56 %
+5 1.030074119567871
+Accuracy: 81 %
+6 0.8585925102233887
+Accuracy: 93 %
+7 0.47575825452804565
+Accuracy: 100 %
+8 0.5181334018707275
+Accuracy: 81 %
+9 0.9259083271026611
+Accuracy: 87 %
+10 0.4127774238586426
+Accuracy: 100 %
+11 1.1302357912063599
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:126]
+0 0.30262836813926697
+Accuracy: 100 %
+1 0.34427934885025024
+Accuracy: 75 %
+2 0.6708157658576965
+Accuracy: 75 %
+3 0.6301941871643066
+Accuracy: 62 %
+4 0.5621941089630127
+Accuracy: 75 %
+5 0.5497037172317505
+Accuracy: 87 %
+6 0.31997600197792053
+Accuracy: 87 %
+7 0.7810806035995483
+Accuracy: 62 %
+8 0.7520959377288818
+Accuracy: 81 %
+9 1.148216724395752
+Accuracy: 87 %
+10 0.49896782636642456
+Accuracy: 75 %
+11 0.7486324310302734
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:127]
+0 0.9175711870193481
+Accuracy: 75 %
+1 0.4343387484550476
+Accuracy: 87 %
+2 0.5908213257789612
+Accuracy: 81 %
+3 0.30412089824676514
+Accuracy: 87 %
+4 0.5258098840713501
+Accuracy: 93 %
+5 0.6212772727012634
+Accuracy: 93 %
+6 0.6621730327606201
+Accuracy: 81 %
+7 1.0197948217391968
+Accuracy: 87 %
+8 1.0353024005889893
+Accuracy: 68 %
+9 0.47291165590286255
+Accuracy: 68 %
+10 0.866045355796814
+Accuracy: 93 %
+11 0.5520241260528564
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:128]
+0 0.2667214572429657
+Accuracy: 93 %
+1 0.5479509234428406
+Accuracy: 81 %
+2 0.5449845790863037
+Accuracy: 100 %
+3 1.1247140169143677
+Accuracy: 75 %
+4 0.35771891474723816
+Accuracy: 93 %
+5 0.4724861979484558
+Accuracy: 87 %
+6 0.7913157939910889
+Accuracy: 87 %
+7 0.6524724960327148
+Accuracy: 81 %
+8 0.8606765270233154
+Accuracy: 87 %
+9 0.677121102809906
+Accuracy: 100 %
+10 0.37363719940185547
+Accuracy: 100 %
+11 0.5152353644371033
+Accuracy: 91 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:129]
+0 0.3435080647468567
+Accuracy: 93 %
+1 1.00315260887146
+Accuracy: 56 %
+2 0.6544350385665894
+Accuracy: 75 %
+3 1.1080429553985596
+Accuracy: 62 %
+4 0.6461488008499146
+Accuracy: 75 %
+5 0.7374960780143738
+Accuracy: 68 %
+6 1.043762445449829
+Accuracy: 81 %
+7 0.382070928812027
+Accuracy: 87 %
+8 1.326821208000183
+Accuracy: 75 %
+9 0.5797911286354065
+Accuracy: 87 %
+10 0.6013864278793335
+Accuracy: 75 %
+11 0.5069141983985901
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:130]
+0 0.416604220867157
+Accuracy: 87 %
+1 0.34978002309799194
+Accuracy: 93 %
+2 0.6649744510650635
+Accuracy: 81 %
+3 0.5884969234466553
+Accuracy: 68 %
+4 0.6334047317504883
+Accuracy: 87 %
+5 0.45827823877334595
+Accuracy: 81 %
+6 0.7206701636314392
+Accuracy: 68 %
+7 0.5913415551185608
+Accuracy: 93 %
+8 1.2383695840835571
+Accuracy: 81 %
+9 0.7861871719360352
+Accuracy: 68 %
+10 0.983573317527771
+Accuracy: 62 %
+11 0.6717987060546875
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:131]
+0 0.8152178525924683
+Accuracy: 93 %
+1 0.4509449899196625
+Accuracy: 93 %
+2 0.34026557207107544
+Accuracy: 93 %
+3 0.5967161655426025
+Accuracy: 87 %
+4 0.9437164664268494
+Accuracy: 75 %
+5 0.3478829860687256
+Accuracy: 81 %
+6 0.9546940326690674
+Accuracy: 62 %
+7 0.4632986783981323
+Accuracy: 75 %
+8 0.6630436778068542
+Accuracy: 87 %
+9 0.5928434133529663
+Accuracy: 87 %
+10 0.9600313901901245
+Accuracy: 75 %
+11 0.503566563129425
+Accuracy: 91 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:132]
+0 0.9932671189308167
+Accuracy: 62 %
+1 0.4369085133075714
+Accuracy: 93 %
+2 0.16889961063861847
+Accuracy: 100 %
+3 0.5357388257980347
+Accuracy: 81 %
+4 0.6157724857330322
+Accuracy: 87 %
+5 0.38807082176208496
+Accuracy: 87 %
+6 0.5076450109481812
+Accuracy: 93 %
+7 0.7422393560409546
+Accuracy: 75 %
+8 0.5367631912231445
+Accuracy: 87 %
+9 0.6932514905929565
+Accuracy: 81 %
+10 0.6503926515579224
+Accuracy: 68 %
+11 0.6576648354530334
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:133]
+0 0.4110341966152191
+Accuracy: 93 %
+1 0.6498708724975586
+Accuracy: 68 %
+2 0.3083876967430115
+Accuracy: 81 %
+3 0.43733203411102295
+Accuracy: 87 %
+4 0.6291280388832092
+Accuracy: 93 %
+5 0.746346652507782
+Accuracy: 68 %
+6 0.48408299684524536
+Accuracy: 93 %
+7 0.8497873544692993
+Accuracy: 68 %
+8 0.45827025175094604
+Accuracy: 87 %
+9 0.7014398574829102
+Accuracy: 81 %
+10 0.5559687614440918
+Accuracy: 75 %
+11 0.5892152190208435
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:134]
+0 0.44759753346443176
+Accuracy: 87 %
+1 0.4936152696609497
+Accuracy: 87 %
+2 0.533166229724884
+Accuracy: 81 %
+3 0.8569068908691406
+Accuracy: 68 %
+4 0.40452319383621216
+Accuracy: 81 %
+5 0.4597102701663971
+Accuracy: 87 %
+6 0.4637259840965271
+Accuracy: 81 %
+7 0.24757519364356995
+Accuracy: 100 %
+8 0.46493038535118103
+Accuracy: 75 %
+9 0.5338624715805054
+Accuracy: 87 %
+10 0.7141658663749695
+Accuracy: 81 %
+11 0.4412418305873871
+Accuracy: 91 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:135]
+0 0.6764604449272156
+Accuracy: 87 %
+1 0.9174948930740356
+Accuracy: 81 %
+2 0.5603529810905457
+Accuracy: 75 %
+3 0.19516010582447052
+Accuracy: 93 %
+4 0.545215368270874
+Accuracy: 75 %
+5 0.3702685236930847
+Accuracy: 87 %
+6 0.9388785362243652
+Accuracy: 81 %
+7 0.5085322260856628
+Accuracy: 87 %
+8 0.7481430172920227
+Accuracy: 87 %
+9 0.39792725443840027
+Accuracy: 87 %
+10 0.4208165407180786
+Accuracy: 93 %
+11 1.1706390380859375
+Accuracy: 66 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:136]
+0 0.5554652214050293
+Accuracy: 81 %
+1 0.2845080494880676
+Accuracy: 87 %
+2 0.5631781220436096
+Accuracy: 87 %
+3 0.5170575380325317
+Accuracy: 93 %
+4 0.5362992286682129
+Accuracy: 87 %
+5 0.45255863666534424
+Accuracy: 93 %
+6 0.14281749725341797
+Accuracy: 87 %
+7 0.5296109318733215
+Accuracy: 87 %
+8 0.48244670033454895
+Accuracy: 81 %
+9 0.8260992169380188
+Accuracy: 75 %
+10 0.8512060642242432
+Accuracy: 81 %
+11 0.6290107369422913
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:137]
+0 0.38917356729507446
+Accuracy: 93 %
+1 0.6093307733535767
+Accuracy: 87 %
+2 0.4834951162338257
+Accuracy: 100 %
+3 0.5747183561325073
+Accuracy: 87 %
+4 0.3490198254585266
+Accuracy: 100 %
+5 0.5003142356872559
+Accuracy: 81 %
+6 0.35088056325912476
+Accuracy: 81 %
+7 0.3905702233314514
+Accuracy: 75 %
+8 0.32002103328704834
+Accuracy: 93 %
+9 0.6839959621429443
+Accuracy: 62 %
+10 0.7055055499076843
+Accuracy: 81 %
+11 0.1659548431634903
+Accuracy: 91 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:138]
+0 0.14817506074905396
+Accuracy: 93 %
+1 1.3276280164718628
+Accuracy: 62 %
+2 0.5642616748809814
+Accuracy: 68 %
+3 0.24490775167942047
+Accuracy: 81 %
+4 0.7885580062866211
+Accuracy: 68 %
+5 0.9331716299057007
+Accuracy: 75 %
+6 0.40285539627075195
+Accuracy: 87 %
+7 0.5350772142410278
+Accuracy: 87 %
+8 0.5324772596359253
+Accuracy: 87 %
+9 0.43446075916290283
+Accuracy: 87 %
+10 0.6777871251106262
+Accuracy: 75 %
+11 0.9317569732666016
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:139]
+0 0.5276397466659546
+Accuracy: 75 %
+1 0.4383522570133209
+Accuracy: 81 %
+2 0.679114818572998
+Accuracy: 87 %
+3 0.41411536931991577
+Accuracy: 93 %
+4 0.5157370567321777
+Accuracy: 87 %
+5 0.70381760597229
+Accuracy: 87 %
+6 0.688518226146698
+Accuracy: 75 %
+7 0.8001316785812378
+Accuracy: 68 %
+8 1.1586400270462036
+Accuracy: 87 %
+9 0.6365960836410522
+Accuracy: 75 %
+10 0.4474612772464752
+Accuracy: 87 %
+11 0.43921005725860596
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:140]
+0 1.0791738033294678
+Accuracy: 75 %
+1 0.89393150806427
+Accuracy: 81 %
+2 0.2905150055885315
+Accuracy: 93 %
+3 1.0276782512664795
+Accuracy: 68 %
+4 0.1255650371313095
+Accuracy: 100 %
+5 0.777230441570282
+Accuracy: 56 %
+6 0.8387081623077393
+Accuracy: 100 %
+7 0.5573244094848633
+Accuracy: 68 %
+8 1.1058870553970337
+Accuracy: 68 %
+9 0.8850739598274231
+Accuracy: 68 %
+10 0.8710331916809082
+Accuracy: 81 %
+11 0.8074889183044434
+Accuracy: 66 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 47 %
+Test Accuracy: 58 %
+Test Accuracy: 100 %
+[epoch:141]
+0 0.7526911497116089
+Accuracy: 62 %
+1 0.6437132358551025
+Accuracy: 75 %
+2 1.282781720161438
+Accuracy: 87 %
+3 1.0821497440338135
+Accuracy: 68 %
+4 0.7303067445755005
+Accuracy: 93 %
+5 0.9526737332344055
+Accuracy: 62 %
+6 0.7011016011238098
+Accuracy: 62 %
+7 0.878907322883606
+Accuracy: 75 %
+8 0.5741491913795471
+Accuracy: 75 %
+9 1.110597848892212
+Accuracy: 81 %
+10 0.5061818361282349
+Accuracy: 81 %
+11 1.5316232442855835
+Accuracy: 75 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 58 %
+Test Accuracy: 58 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:142]
+0 0.6011550426483154
+Accuracy: 87 %
+1 0.5112635493278503
+Accuracy: 87 %
+2 0.4387577474117279
+Accuracy: 68 %
+3 0.3290674090385437
+Accuracy: 81 %
+4 0.6192492246627808
+Accuracy: 68 %
+5 0.835784912109375
+Accuracy: 75 %
+6 0.5713071823120117
+Accuracy: 75 %
+7 0.7540317177772522
+Accuracy: 62 %
+8 0.6195728182792664
+Accuracy: 62 %
+9 0.8079044222831726
+Accuracy: 75 %
+10 0.8299105167388916
+Accuracy: 93 %
+11 0.904776394367218
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:143]
+0 0.558771550655365
+Accuracy: 81 %
+1 1.07779860496521
+Accuracy: 68 %
+2 0.7592166662216187
+Accuracy: 62 %
+3 1.0107394456863403
+Accuracy: 68 %
+4 0.5263957977294922
+Accuracy: 68 %
+5 0.6569890975952148
+Accuracy: 93 %
+6 0.6703766584396362
+Accuracy: 81 %
+7 0.5883522629737854
+Accuracy: 75 %
+8 0.7213513255119324
+Accuracy: 87 %
+9 0.4438542425632477
+Accuracy: 87 %
+10 0.4154928922653198
+Accuracy: 81 %
+11 0.6381989121437073
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 0 %
+[epoch:144]
+0 0.4950260818004608
+Accuracy: 100 %
+1 0.3952111005783081
+Accuracy: 93 %
+2 0.3931022584438324
+Accuracy: 93 %
+3 0.4738485515117645
+Accuracy: 87 %
+4 0.9739142060279846
+Accuracy: 75 %
+5 0.986971378326416
+Accuracy: 68 %
+6 0.4053761959075928
+Accuracy: 75 %
+7 0.3418666124343872
+Accuracy: 100 %
+8 0.6004055738449097
+Accuracy: 87 %
+9 0.4091300964355469
+Accuracy: 81 %
+10 0.27519989013671875
+Accuracy: 75 %
+11 0.4668811857700348
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:145]
+0 0.26862087845802307
+Accuracy: 93 %
+1 0.5534228086471558
+Accuracy: 68 %
+2 0.29546207189559937
+Accuracy: 81 %
+3 0.4378506541252136
+Accuracy: 87 %
+4 0.44942358136177063
+Accuracy: 81 %
+5 0.32611918449401855
+Accuracy: 100 %
+6 0.47984910011291504
+Accuracy: 75 %
+7 0.26481178402900696
+Accuracy: 87 %
+8 1.1682438850402832
+Accuracy: 75 %
+9 0.6028009057044983
+Accuracy: 87 %
+10 0.7049698829650879
+Accuracy: 81 %
+11 0.47253939509391785
+Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:146]
+0 0.39977777004241943
+Accuracy: 81 %
+1 0.23156604170799255
+Accuracy: 100 %
+2 0.5145902037620544
+Accuracy: 81 %
+3 0.2982914447784424
+Accuracy: 93 %
+4 0.4668208062648773
+Accuracy: 100 %
+5 0.4472682774066925
+Accuracy: 81 %
+6 0.46917006373405457
+Accuracy: 93 %
+7 0.6629034280776978
+Accuracy: 87 %
+8 0.20907704532146454
+Accuracy: 100 %
+9 0.570105791091919
+Accuracy: 87 %
+10 0.5651929378509521
+Accuracy: 75 %
+11 0.4010184705257416
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:147]
+0 0.8349202871322632
+Accuracy: 87 %
+1 0.9623181223869324
+Accuracy: 75 %
+2 0.6738501787185669
+Accuracy: 81 %
+3 0.2898552715778351
+Accuracy: 100 %
+4 0.27045589685440063
+Accuracy: 87 %
+5 0.49240395426750183
+Accuracy: 87 %
+6 0.23581503331661224
+Accuracy: 93 %
+7 0.43471619486808777
+Accuracy: 93 %
+8 0.6003603935241699
+Accuracy: 75 %
+9 0.29641133546829224
+Accuracy: 93 %
+10 0.6418702602386475
+Accuracy: 87 %
+11 0.6870363354682922
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 64 %
+Test Accuracy: 52 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:148]
+0 0.41220682859420776
+Accuracy: 81 %
+1 1.3653205633163452
+Accuracy: 87 %
+2 0.4521615505218506
+Accuracy: 81 %
+3 0.6766488552093506
+Accuracy: 81 %
+4 0.6464446187019348
+Accuracy: 43 %
+5 0.5511642694473267
+Accuracy: 62 %
+6 0.6665845513343811
+Accuracy: 75 %
+7 0.5163572430610657
+Accuracy: 75 %
+8 0.8004251718521118
+Accuracy: 81 %
+9 0.443419873714447
+Accuracy: 75 %
+10 0.8625006675720215
+Accuracy: 68 %
+11 0.7230536937713623
+Accuracy: 83 %
+Test Accuracy: 52 %
+Test Accuracy: 35 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:149]
+0 0.4118559658527374
+Accuracy: 81 %
+1 0.5039318203926086
+Accuracy: 75 %
+2 0.9983107447624207
+Accuracy: 81 %
+3 0.452057421207428
+Accuracy: 62 %
+4 0.3875253200531006
+Accuracy: 87 %
+5 0.6594060659408569
+Accuracy: 81 %
+6 0.670568585395813
+Accuracy: 81 %
+7 0.536049485206604
+Accuracy: 87 %
+8 1.0869477987289429
+Accuracy: 68 %
+9 0.6097625494003296
+Accuracy: 75 %
+10 0.3888562023639679
+Accuracy: 87 %
+11 1.170031189918518
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:150]
+0 0.6640373468399048
+Accuracy: 93 %
+1 1.1560733318328857
+Accuracy: 93 %
+2 0.4291530251502991
+Accuracy: 87 %
+3 0.5562653541564941
+Accuracy: 68 %
+4 0.8555794954299927
+Accuracy: 81 %
+5 0.5277068018913269
+Accuracy: 81 %
+6 0.5415238738059998
+Accuracy: 75 %
+7 0.9906250238418579
+Accuracy: 56 %
+8 0.6794365048408508
+Accuracy: 87 %
+9 0.84049391746521
+Accuracy: 75 %
+10 0.27457866072654724
+Accuracy: 100 %
+11 0.25767016410827637
+Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:151]
+0 0.4131383001804352
+Accuracy: 81 %
+1 0.4821963310241699
+Accuracy: 81 %
+2 0.36520010232925415
+Accuracy: 87 %
+3 0.39335954189300537
+Accuracy: 87 %
+4 0.8206267356872559
+Accuracy: 68 %
+5 0.8002988696098328
+Accuracy: 81 %
+6 0.5132782459259033
+Accuracy: 93 %
+7 0.6758648157119751
+Accuracy: 75 %
+8 0.3276847004890442
+Accuracy: 81 %
+9 0.3452410399913788
+Accuracy: 100 %
+10 0.7944180965423584
+Accuracy: 81 %
+11 0.6583774089813232
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:152]
+0 0.7530811429023743
+Accuracy: 87 %
+1 0.3582807779312134
+Accuracy: 87 %
+2 0.9252429008483887
+Accuracy: 87 %
+3 0.6583176255226135
+Accuracy: 81 %
+4 0.8057377934455872
+Accuracy: 93 %
+5 0.315685510635376
+Accuracy: 100 %
+6 0.7110375165939331
+Accuracy: 93 %
+7 0.2415314018726349
+Accuracy: 100 %
+8 0.6953293085098267
+Accuracy: 87 %
+9 0.594312846660614
+Accuracy: 75 %
+10 0.4582446813583374
+Accuracy: 75 %
+11 1.2515405416488647
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:153]
+0 0.29986464977264404
+Accuracy: 93 %
+1 0.4135056138038635
+Accuracy: 87 %
+2 0.2639662027359009
+Accuracy: 93 %
+3 0.2957572042942047
+Accuracy: 93 %
+4 0.4822595417499542
+Accuracy: 81 %
+5 0.44166767597198486
+Accuracy: 93 %
+6 0.5962207317352295
+Accuracy: 87 %
+7 0.7079577445983887
+Accuracy: 93 %
+8 0.7183709144592285
+Accuracy: 81 %
+9 0.74643474817276
+Accuracy: 81 %
+10 0.42155027389526367
+Accuracy: 93 %
+11 0.7143095135688782
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:154]
+0 0.6132237315177917
+Accuracy: 68 %
+1 0.48000264167785645
+Accuracy: 81 %
+2 0.48037612438201904
+Accuracy: 81 %
+3 0.8098076581954956
+Accuracy: 75 %
+4 0.5232650637626648
+Accuracy: 81 %
+5 0.7418622970581055
+Accuracy: 68 %
+6 0.789374589920044
+Accuracy: 75 %
+7 0.4334791302680969
+Accuracy: 81 %
+8 0.659864604473114
+Accuracy: 75 %
+9 1.1562535762786865
+Accuracy: 75 %
+10 0.7500962615013123
+Accuracy: 75 %
+11 0.6110789179801941
+Accuracy: 66 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:155]
+0 0.2564675509929657
+Accuracy: 75 %
+1 0.5154431462287903
+Accuracy: 75 %
+2 0.6986944079399109
+Accuracy: 62 %
+3 0.14988288283348083
+Accuracy: 68 %
+4 0.9960038661956787
+Accuracy: 68 %
+5 0.8421352505683899
+Accuracy: 62 %
+6 0.8949984908103943
+Accuracy: 81 %
+7 1.0451480150222778
+Accuracy: 56 %
+8 1.4850327968597412
+Accuracy: 62 %
+9 0.7642521858215332
+Accuracy: 81 %
+10 0.32938438653945923
+Accuracy: 81 %
+11 0.629413366317749
+Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:156]
+0 0.35517415404319763
+Accuracy: 93 %
+1 0.35609614849090576
+Accuracy: 87 %
+2 0.3706000745296478
+Accuracy: 87 %
+3 0.18522708117961884
+Accuracy: 93 %
+4 0.7674175500869751
+Accuracy: 81 %
+5 0.4636256694793701
+Accuracy: 93 %
+6 0.7928659915924072
+Accuracy: 81 %
+7 0.6638712286949158
+Accuracy: 68 %
+8 0.4961068630218506
+Accuracy: 68 %
+9 0.7478997707366943
+Accuracy: 87 %
+10 0.7186946272850037
+Accuracy: 75 %
+11 0.7849300503730774
+Accuracy: 83 %
+Test Accuracy: 76 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:157]
+0 0.32616373896598816
+Accuracy: 100 %
+1 0.687834620475769
+Accuracy: 87 %
+2 0.8926029205322266
+Accuracy: 87 %
+3 1.1286370754241943
+Accuracy: 75 %
+4 0.7252581119537354
+Accuracy: 87 %
+5 0.4894382953643799
+Accuracy: 93 %
+6 0.3563149869441986
+Accuracy: 93 %
+7 0.3489687442779541
+Accuracy: 87 %
+8 0.585796058177948
+Accuracy: 75 %
+9 0.3521744906902313
+Accuracy: 81 %
+10 0.23048803210258484
+Accuracy: 93 %
+11 0.2963161766529083
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:158]
+0 0.4874224364757538
+Accuracy: 75 %
+1 0.23941269516944885
+Accuracy: 93 %
+2 0.4603399336338043
+Accuracy: 81 %
+3 0.26236996054649353
+Accuracy: 87 %
+4 0.7049492597579956
+Accuracy: 75 %
+5 0.49515506625175476
+Accuracy: 81 %
+6 0.7370848655700684
+Accuracy: 81 %
+7 0.34604355692863464
+Accuracy: 93 %
+8 0.2786589562892914
+Accuracy: 87 %
+9 0.6364031434059143
+Accuracy: 87 %
+10 0.15093009173870087
+Accuracy: 100 %
+11 0.4026756286621094
+Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:159]
+0 0.43049219250679016
+Accuracy: 81 %
+1 0.7614079713821411
+Accuracy: 75 %
+2 0.21925446391105652
+Accuracy: 93 %
+3 0.17628143727779388
+Accuracy: 100 %
+4 0.34571173787117004
+Accuracy: 81 %
+5 0.9897701740264893
+Accuracy: 87 %
+6 0.7295371890068054
+Accuracy: 93 %
+7 0.44857779145240784
+Accuracy: 100 %
+8 0.7151003479957581
+Accuracy: 87 %
+9 0.5243647694587708
+Accuracy: 100 %
+10 0.3149985074996948
+Accuracy: 93 %
+11 0.5444943308830261
+Accuracy: 75 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+[epoch:160]
+0 0.336272656917572
+Accuracy: 87 %
+1 0.21600806713104248
+Accuracy: 93 %
+2 0.348102331161499
+Accuracy: 87 %
+3 0.8040750026702881
+Accuracy: 68 %
+4 0.4024052619934082
+Accuracy: 93 %
+5 0.5153204798698425
+Accuracy: 100 %
+6 0.35007596015930176
+Accuracy: 93 %
+7 0.5660744905471802
+Accuracy: 87 %
+8 0.6998332738876343
+Accuracy: 81 %
+9 0.5065882802009583
+Accuracy: 100 %
+10 0.9986616373062134
+Accuracy: 75 %
+11 0.49163439869880676
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:161]
+0 0.21372699737548828
+Accuracy: 93 %
+1 0.13028578460216522
+Accuracy: 100 %
+2 0.5344094038009644
+Accuracy: 100 %
+3 0.42366907000541687
+Accuracy: 87 %
+4 0.3888359069824219
+Accuracy: 93 %
+5 0.34709352254867554
+Accuracy: 75 %
+6 1.3713587522506714
+Accuracy: 81 %
+7 0.1527935266494751
+Accuracy: 93 %
+8 0.6236945390701294
+Accuracy: 87 %
+9 0.15655244886875153
+Accuracy: 93 %
+10 0.3786855936050415
+Accuracy: 87 %
+11 0.33085665106773376
+Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:162]
+0 0.6859540343284607
+Accuracy: 81 %
+1 0.35618680715560913
+Accuracy: 87 %
+2 0.6808111071586609
+Accuracy: 75 %
+3 0.7423535585403442
+Accuracy: 93 %
+4 0.8008456826210022
+Accuracy: 81 %
+5 0.7761871814727783
+Accuracy: 75 %
+6 0.32476720213890076
+Accuracy: 87 %
+7 0.3287120759487152
+Accuracy: 87 %
+8 0.5443288087844849
+Accuracy: 81 %
+9 0.6373839974403381
+Accuracy: 93 %
+10 0.3419656753540039
+Accuracy: 93 %
+11 0.3241662085056305
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:163]
+0 0.3457750976085663
+Accuracy: 87 %
+1 0.7434705495834351
+Accuracy: 81 %
+2 0.2539308965206146
+Accuracy: 93 %
+3 0.4887942671775818
+Accuracy: 81 %
+4 0.8754926919937134
+Accuracy: 81 %
+5 0.2033294439315796
+Accuracy: 100 %
+6 0.7307111024856567
+Accuracy: 93 %
+7 1.1936651468276978
+Accuracy: 62 %
+8 0.6440526247024536
+Accuracy: 75 %
+9 0.3616580367088318
+Accuracy: 87 %
+10 0.3816840350627899
+Accuracy: 100 %
+11 0.22913871705532074
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:164]
+0 1.0099819898605347
+Accuracy: 81 %
+1 0.7511434555053711
+Accuracy: 81 %
+2 0.7593069672584534
+Accuracy: 93 %
+3 0.30287081003189087
+Accuracy: 100 %
+4 0.5404577255249023
+Accuracy: 81 %
+5 0.3751418888568878
+Accuracy: 87 %
+6 0.5375856161117554
+Accuracy: 81 %
+7 0.3900851309299469
+Accuracy: 81 %
+8 0.40486133098602295
+Accuracy: 75 %
+9 0.679252028465271
+Accuracy: 87 %
+10 0.6004602313041687
+Accuracy: 75 %
+11 1.2870405912399292
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:165]
+0 0.910515308380127
+Accuracy: 75 %
+1 0.4286618232727051
+Accuracy: 68 %
+2 0.43608275055885315
+Accuracy: 81 %
+3 0.6169306039810181
+Accuracy: 75 %
+4 1.4215879440307617
+Accuracy: 68 %
+5 0.40865352749824524
+Accuracy: 75 %
+6 0.6961392164230347
+Accuracy: 81 %
+7 0.25957587361335754
+Accuracy: 93 %
+8 0.4014315903186798
+Accuracy: 93 %
+9 0.45352399349212646
+Accuracy: 93 %
+10 0.6527619361877441
+Accuracy: 81 %
+11 0.4777214527130127
+Accuracy: 75 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:166]
+0 0.6108055114746094
+Accuracy: 87 %
+1 0.9061200022697449
+Accuracy: 68 %
+2 0.6710010766983032
+Accuracy: 93 %
+3 0.5719194412231445
+Accuracy: 87 %
+4 0.22478719055652618
+Accuracy: 100 %
+5 0.6424098014831543
+Accuracy: 81 %
+6 0.5096131563186646
+Accuracy: 87 %
+7 0.44120997190475464
+Accuracy: 87 %
+8 0.38888901472091675
+Accuracy: 81 %
+9 0.2708604037761688
+Accuracy: 93 %
+10 0.7516194581985474
+Accuracy: 68 %
+11 0.7158680558204651
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 0 %
+[epoch:167]
+0 0.3090588450431824
+Accuracy: 93 %
+1 0.6040282845497131
+Accuracy: 81 %
+2 0.7700981497764587
+Accuracy: 87 %
+3 0.5559501051902771
+Accuracy: 100 %
+4 0.7583996057510376
+Accuracy: 81 %
+5 0.1929435133934021
+Accuracy: 87 %
+6 0.33391350507736206
+Accuracy: 87 %
+7 1.1128557920455933
+Accuracy: 75 %
+8 0.6874462366104126
+Accuracy: 62 %
+9 0.24281303584575653
+Accuracy: 87 %
+10 0.8184301853179932
+Accuracy: 68 %
+11 0.296457976102829
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 52 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:168]
+0 0.43202415108680725
+Accuracy: 75 %
+1 0.7742342948913574
+Accuracy: 75 %
+2 0.492709219455719
+Accuracy: 75 %
+3 0.9589106440544128
+Accuracy: 81 %
+4 0.35090741515159607
+Accuracy: 68 %
+5 0.5064330101013184
+Accuracy: 87 %
+6 0.5720691084861755
+Accuracy: 87 %
+7 0.5530328750610352
+Accuracy: 81 %
+8 0.42114561796188354
+Accuracy: 87 %
+9 0.36931347846984863
+Accuracy: 81 %
+10 0.3858937621116638
+Accuracy: 75 %
+11 0.3922435939311981
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:169]
+0 0.22635751962661743
+Accuracy: 81 %
+1 0.4309338331222534
+Accuracy: 81 %
+2 0.8524050116539001
+Accuracy: 75 %
+3 0.6167651414871216
+Accuracy: 81 %
+4 0.21911172568798065
+Accuracy: 100 %
+5 0.3103196620941162
+Accuracy: 93 %
+6 0.5432618856430054
+Accuracy: 81 %
+7 0.4371064305305481
+Accuracy: 87 %
+8 0.5415299534797668
+Accuracy: 93 %
+9 0.526669979095459
+Accuracy: 93 %
+10 0.7943947911262512
+Accuracy: 87 %
+11 0.4760345220565796
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:170]
+0 0.26559340953826904
+Accuracy: 87 %
+1 0.5153849124908447
+Accuracy: 68 %
+2 0.37921586632728577
+Accuracy: 75 %
+3 0.4519183933734894
+Accuracy: 81 %
+4 0.6564310789108276
+Accuracy: 93 %
+5 0.4163341522216797
+Accuracy: 87 %
+6 0.3576499819755554
+Accuracy: 93 %
+7 0.8345694541931152
+Accuracy: 56 %
+8 0.4496539831161499
+Accuracy: 87 %
+9 0.5616129636764526
+Accuracy: 68 %
+10 0.34215542674064636
+Accuracy: 81 %
+11 0.16867144405841827
+Accuracy: 75 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:171]
+0 0.15927717089653015
+Accuracy: 87 %
+1 1.141339659690857
+Accuracy: 93 %
+2 0.21207770705223083
+Accuracy: 87 %
+3 0.520287036895752
+Accuracy: 62 %
+4 0.4950689375400543
+Accuracy: 87 %
+5 0.6773669123649597
+Accuracy: 87 %
+6 0.3717670440673828
+Accuracy: 93 %
+7 0.6850711107254028
+Accuracy: 81 %
+8 0.6205503344535828
+Accuracy: 81 %
+9 0.11297139525413513
+Accuracy: 93 %
+10 0.426037073135376
+Accuracy: 87 %
+11 0.29261624813079834
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:172]
+0 0.4678383469581604
+Accuracy: 75 %
+1 0.2369295209646225
+Accuracy: 93 %
+2 0.1213894635438919
+Accuracy: 100 %
+3 0.3810366690158844
+Accuracy: 93 %
+4 0.5384378433227539
+Accuracy: 87 %
+5 0.602539598941803
+Accuracy: 93 %
+6 0.2957286536693573
+Accuracy: 100 %
+7 0.23164378106594086
+Accuracy: 93 %
+8 0.2720874845981598
+Accuracy: 87 %
+9 0.8611336946487427
+Accuracy: 87 %
+10 0.34954404830932617
+Accuracy: 87 %
+11 0.6636899709701538
+Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:173]
+0 0.3257392942905426
+Accuracy: 93 %
+1 0.35127970576286316
+Accuracy: 93 %
+2 0.5406030416488647
+Accuracy: 81 %
+3 1.4178249835968018
+Accuracy: 75 %
+4 1.1215710639953613
+Accuracy: 87 %
+5 0.5916317105293274
+Accuracy: 81 %
+6 1.1732813119888306
+Accuracy: 75 %
+7 0.34584134817123413
+Accuracy: 81 %
+8 1.1228773593902588
+Accuracy: 81 %
+9 0.9631975889205933
+Accuracy: 93 %
+10 1.0290271043777466
+Accuracy: 81 %
+11 0.608916699886322
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:174]
+0 0.28670546412467957
+Accuracy: 100 %
+1 0.3222191333770752
+Accuracy: 93 %
+2 0.8461900949478149
+Accuracy: 93 %
+3 0.555063009262085
+Accuracy: 75 %
+4 0.4885652959346771
+Accuracy: 81 %
+5 0.22582539916038513
+Accuracy: 75 %
+6 0.31341567635536194
+Accuracy: 62 %
+7 0.8068310022354126
+Accuracy: 81 %
+8 1.2927491664886475
+Accuracy: 62 %
+9 1.1331709623336792
+Accuracy: 62 %
+10 0.9443041086196899
+Accuracy: 68 %
+11 1.1862200498580933
+Accuracy: 66 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 76 %
+Test Accuracy: 0 %
+[epoch:175]
+0 0.5552754402160645
+Accuracy: 87 %
+1 0.5644441246986389
+Accuracy: 75 %
+2 0.6733625531196594
+Accuracy: 68 %
+3 0.2813131809234619
+Accuracy: 68 %
+4 0.5007233619689941
+Accuracy: 68 %
+5 0.76485276222229
+Accuracy: 43 %
+6 0.4732547104358673
+Accuracy: 81 %
+7 0.6532546281814575
+Accuracy: 56 %
+8 0.9681947231292725
+Accuracy: 62 %
+9 1.0292235612869263
+Accuracy: 56 %
+10 0.3762761652469635
+Accuracy: 87 %
+11 0.5958359837532043
+Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:176]
+0 0.36077937483787537
+Accuracy: 87 %
+1 0.5216460227966309
+Accuracy: 81 %
+2 0.8553223609924316
+Accuracy: 81 %
+3 0.10682350397109985
+Accuracy: 93 %
+4 0.3017394244670868
+Accuracy: 93 %
+5 0.8717191219329834
+Accuracy: 75 %
+6 0.5086904168128967
+Accuracy: 68 %
+7 0.31552577018737793
+Accuracy: 87 %
+8 0.38902747631073
+Accuracy: 87 %
+9 0.949419379234314
+Accuracy: 87 %
+10 0.5402781963348389
+Accuracy: 75 %
+11 0.43253615498542786
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:177]
+0 0.7178493142127991
+Accuracy: 75 %
+1 0.3967496156692505
+Accuracy: 81 %
+2 0.5457727313041687
+Accuracy: 75 %
+3 0.32726144790649414
+Accuracy: 81 %
+4 0.4514927864074707
+Accuracy: 93 %
+5 0.39036500453948975
+Accuracy: 87 %
+6 0.7743644118309021
+Accuracy: 37 %
+7 0.5530251860618591
+Accuracy: 75 %
+8 0.8347395658493042
+Accuracy: 68 %
+9 0.4859234094619751
+Accuracy: 87 %
+10 0.3864096701145172
+Accuracy: 93 %
+11 0.6775376200675964
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:178]
+0 0.39311718940734863
+Accuracy: 93 %
+1 0.5050981640815735
+Accuracy: 75 %
+2 0.33967435359954834
+Accuracy: 93 %
+3 0.31832146644592285
+Accuracy: 87 %
+4 0.41802215576171875
+Accuracy: 87 %
+5 0.7360408306121826
+Accuracy: 87 %
+6 0.40444085001945496
+Accuracy: 81 %
+7 0.4717915952205658
+Accuracy: 81 %
+8 0.46066075563430786
+Accuracy: 87 %
+9 0.5863522291183472
+Accuracy: 87 %
+10 0.741459310054779
+Accuracy: 81 %
+11 0.4860694706439972
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:179]
+0 0.42999327182769775
+Accuracy: 81 %
+1 0.6602198481559753
+Accuracy: 87 %
+2 0.3647560775279999
+Accuracy: 75 %
+3 0.4658157527446747
+Accuracy: 81 %
+4 0.14921599626541138
+Accuracy: 93 %
+5 0.3245619535446167
+Accuracy: 100 %
+6 0.33900386095046997
+Accuracy: 93 %
+7 0.5410730838775635
+Accuracy: 81 %
+8 0.5474853515625
+Accuracy: 87 %
+9 0.48218590021133423
+Accuracy: 87 %
+10 0.21112596988677979
+Accuracy: 87 %
+11 0.4015282094478607
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:180]
+0 0.9855409860610962
+Accuracy: 75 %
+1 0.380109965801239
+Accuracy: 93 %
+2 0.24001820385456085
+Accuracy: 93 %
+3 0.37663033604621887
+Accuracy: 93 %
+4 0.31512588262557983
+Accuracy: 87 %
+5 0.6970056891441345
+Accuracy: 100 %
+6 0.4321536123752594
+Accuracy: 81 %
+7 0.5251141786575317
+Accuracy: 93 %
+8 0.29046136140823364
+Accuracy: 93 %
+9 0.6824361681938171
+Accuracy: 93 %
+10 0.8359043598175049
+Accuracy: 68 %
+11 0.3408606946468353
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:181]
+0 0.626572847366333
+Accuracy: 81 %
+1 1.0576467514038086
+Accuracy: 81 %
+2 0.5458309650421143
+Accuracy: 81 %
+3 0.08615319430828094
+Accuracy: 93 %
+4 0.35829418897628784
+Accuracy: 81 %
+5 0.21409502625465393
+Accuracy: 93 %
+6 0.1588554084300995
+Accuracy: 100 %
+7 0.7830053567886353
+Accuracy: 87 %
+8 0.1958536058664322
+Accuracy: 93 %
+9 0.9498287439346313
+Accuracy: 75 %
+10 0.5076318383216858
+Accuracy: 93 %
+11 0.2915908992290497
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+[epoch:182]
+0 0.3752318024635315
+Accuracy: 87 %
+1 0.4140840470790863
+Accuracy: 87 %
+2 0.45057958364486694
+Accuracy: 93 %
+3 0.2981764078140259
+Accuracy: 87 %
+4 0.35146549344062805
+Accuracy: 93 %
+5 0.22006374597549438
+Accuracy: 87 %
+6 0.5618242025375366
+Accuracy: 87 %
+7 0.2817506790161133
+Accuracy: 87 %
+8 0.5514411330223083
+Accuracy: 100 %
+9 0.5675557255744934
+Accuracy: 68 %
+10 0.6975054740905762
+Accuracy: 87 %
+11 0.6279668807983398
+Accuracy: 91 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:183]
+0 0.2778579294681549
+Accuracy: 93 %
+1 0.6146090030670166
+Accuracy: 81 %
+2 0.3371296525001526
+Accuracy: 87 %
+3 0.2577020525932312
+Accuracy: 87 %
+4 0.5675420761108398
+Accuracy: 87 %
+5 0.44831913709640503
+Accuracy: 81 %
+6 0.44504135847091675
+Accuracy: 68 %
+7 0.6800348162651062
+Accuracy: 87 %
+8 0.49904531240463257
+Accuracy: 75 %
+9 0.1412007063627243
+Accuracy: 87 %
+10 0.537274956703186
+Accuracy: 87 %
+11 0.8830898404121399
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:184]
+0 0.6541745066642761
+Accuracy: 81 %
+1 0.34580332040786743
+Accuracy: 75 %
+2 0.3827400207519531
+Accuracy: 81 %
+3 0.27226537466049194
+Accuracy: 87 %
+4 0.26567041873931885
+Accuracy: 93 %
+5 0.5860697031021118
+Accuracy: 81 %
+6 0.987284779548645
+Accuracy: 81 %
+7 0.5896157026290894
+Accuracy: 81 %
+8 1.5622777938842773
+Accuracy: 68 %
+9 0.17727001011371613
+Accuracy: 93 %
+10 0.563478946685791
+Accuracy: 68 %
+11 0.5594130158424377
+Accuracy: 50 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 58 %
+Test Accuracy: 58 %
+Test Accuracy: 64 %
+Test Accuracy: 58 %
+Test Accuracy: 70 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:185]
+0 0.5489345788955688
+Accuracy: 68 %
+1 0.6337238550186157
+Accuracy: 68 %
+2 0.38713428378105164
+Accuracy: 75 %
+3 0.5930405855178833
+Accuracy: 81 %
+4 0.7735329866409302
+Accuracy: 93 %
+5 0.6413343548774719
+Accuracy: 87 %
+6 1.026355266571045
+Accuracy: 87 %
+7 0.3089028298854828
+Accuracy: 75 %
+8 0.31394684314727783
+Accuracy: 87 %
+9 0.24329447746276855
+Accuracy: 93 %
+10 0.4642142057418823
+Accuracy: 87 %
+11 0.5150678753852844
+Accuracy: 83 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 70 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 0 %
+[epoch:186]
+0 0.2531437575817108
+Accuracy: 81 %
+1 0.7282854318618774
+Accuracy: 75 %
+2 0.36476853489875793
+Accuracy: 81 %
+3 0.8747425675392151
+Accuracy: 56 %
+4 0.43135175108909607
+Accuracy: 81 %
+5 0.48534268140792847
+Accuracy: 75 %
+6 0.7723485231399536
+Accuracy: 87 %
+7 0.34366241097450256
+Accuracy: 93 %
+8 0.6509739756584167
+Accuracy: 81 %
+9 0.9757500886917114
+Accuracy: 87 %
+10 1.1516594886779785
+Accuracy: 75 %
+11 0.5348233580589294
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:187]
+0 0.9980548620223999
+Accuracy: 93 %
+1 0.2799888551235199
+Accuracy: 93 %
+2 0.2919567823410034
+Accuracy: 81 %
+3 0.8274245262145996
+Accuracy: 81 %
+4 1.0347261428833008
+Accuracy: 87 %
+5 0.40861526131629944
+Accuracy: 87 %
+6 0.7599081993103027
+Accuracy: 81 %
+7 0.7147921323776245
+Accuracy: 75 %
+8 1.954904556274414
+Accuracy: 68 %
+9 0.44311317801475525
+Accuracy: 100 %
+10 0.5232292413711548
+Accuracy: 87 %
+11 0.1950521469116211
+Accuracy: 83 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:188]
+0 0.3125562071800232
+Accuracy: 75 %
+1 0.6488572955131531
+Accuracy: 81 %
+2 0.6534848213195801
+Accuracy: 81 %
+3 0.651779055595398
+Accuracy: 75 %
+4 0.6325831413269043
+Accuracy: 93 %
+5 0.2868458926677704
+Accuracy: 93 %
+6 0.546001672744751
+Accuracy: 81 %
+7 0.6601535081863403
+Accuracy: 75 %
+8 0.6467861533164978
+Accuracy: 81 %
+9 0.5711880326271057
+Accuracy: 87 %
+10 0.24444305896759033
+Accuracy: 100 %
+11 0.3560236394405365
+Accuracy: 91 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:189]
+0 0.7201440334320068
+Accuracy: 93 %
+1 0.6916346549987793
+Accuracy: 100 %
+2 0.24474716186523438
+Accuracy: 93 %
+3 0.2808280289173126
+Accuracy: 87 %
+4 0.8661412000656128
+Accuracy: 81 %
+5 0.5473158955574036
+Accuracy: 87 %
+6 0.35111284255981445
+Accuracy: 93 %
+7 0.6942440867424011
+Accuracy: 81 %
+8 0.33488214015960693
+Accuracy: 87 %
+9 0.8445990085601807
+Accuracy: 87 %
+10 0.33188581466674805
+Accuracy: 93 %
+11 0.6719292998313904
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 0 %
+[epoch:190]
+0 0.28242427110671997
+Accuracy: 100 %
+1 0.8392862677574158
+Accuracy: 68 %
+2 1.0098397731781006
+Accuracy: 87 %
+3 0.49410516023635864
+Accuracy: 68 %
+4 1.0055123567581177
+Accuracy: 62 %
+5 0.4176035523414612
+Accuracy: 75 %
+6 0.8950673341751099
+Accuracy: 81 %
+7 0.3413592576980591
+Accuracy: 87 %
+8 0.9613631963729858
+Accuracy: 87 %
+9 0.45051494240760803
+Accuracy: 87 %
+10 1.213418960571289
+Accuracy: 75 %
+11 0.47225141525268555
+Accuracy: 91 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:191]
+0 0.6669870018959045
+Accuracy: 81 %
+1 0.3272959887981415
+Accuracy: 75 %
+2 0.7140792608261108
+Accuracy: 56 %
+3 0.31332990527153015
+Accuracy: 100 %
+4 0.3555040955543518
+Accuracy: 81 %
+5 0.2523215711116791
+Accuracy: 75 %
+6 0.7191946506500244
+Accuracy: 75 %
+7 0.44483453035354614
+Accuracy: 81 %
+8 0.4334390163421631
+Accuracy: 68 %
+9 1.0830038785934448
+Accuracy: 81 %
+10 0.5125994682312012
+Accuracy: 68 %
+11 0.7802765965461731
+Accuracy: 75 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+[epoch:192]
+0 0.43538859486579895
+Accuracy: 81 %
+1 0.1998695582151413
+Accuracy: 93 %
+2 1.1010303497314453
+Accuracy: 75 %
+3 0.40223097801208496
+Accuracy: 87 %
+4 0.495834618806839
+Accuracy: 81 %
+5 0.4977143704891205
+Accuracy: 93 %
+6 0.8590975999832153
+Accuracy: 81 %
+7 0.6891950964927673
+Accuracy: 93 %
+8 0.5299009084701538
+Accuracy: 68 %
+9 1.2173997163772583
+Accuracy: 68 %
+10 0.4286559224128723
+Accuracy: 81 %
+11 0.19348298013210297
+Accuracy: 91 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:193]
+0 0.33147457242012024
+Accuracy: 87 %
+1 0.4569626450538635
+Accuracy: 87 %
+2 0.1937141716480255
+Accuracy: 93 %
+3 0.449578195810318
+Accuracy: 68 %
+4 0.5302513837814331
+Accuracy: 81 %
+5 0.7295580506324768
+Accuracy: 81 %
+6 0.3922966718673706
+Accuracy: 75 %
+7 1.0912667512893677
+Accuracy: 62 %
+8 0.7800783514976501
+Accuracy: 87 %
+9 0.17793646454811096
+Accuracy: 87 %
+10 0.5948605537414551
+Accuracy: 81 %
+11 0.7289322018623352
+Accuracy: 83 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:194]
+0 0.6689218878746033
+Accuracy: 62 %
+1 0.4308328628540039
+Accuracy: 87 %
+2 0.4388192296028137
+Accuracy: 87 %
+3 0.4320650100708008
+Accuracy: 87 %
+4 0.25537973642349243
+Accuracy: 75 %
+5 0.34766194224357605
+Accuracy: 81 %
+6 0.4466722309589386
+Accuracy: 62 %
+7 0.14325276017189026
+Accuracy: 93 %
+8 0.6433751583099365
+Accuracy: 93 %
+9 0.23555921018123627
+Accuracy: 93 %
+10 0.345579594373703
+Accuracy: 81 %
+11 0.5177030563354492
+Accuracy: 91 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:195]
+0 0.9869779944419861
+Accuracy: 93 %
+1 0.5346015691757202
+Accuracy: 75 %
+2 0.21774709224700928
+Accuracy: 93 %
+3 0.3904624879360199
+Accuracy: 87 %
+4 0.4035930335521698
+Accuracy: 87 %
+5 0.32547444105148315
+Accuracy: 93 %
+6 0.24764220416545868
+Accuracy: 93 %
+7 1.1864068508148193
+Accuracy: 62 %
+8 0.2041202336549759
+Accuracy: 93 %
+9 0.529283881187439
+Accuracy: 100 %
+10 0.9540126919746399
+Accuracy: 87 %
+11 1.1727609634399414
+Accuracy: 66 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:196]
+0 0.321570485830307
+Accuracy: 87 %
+1 0.9840869903564453
+Accuracy: 62 %
+2 0.45562389492988586
+Accuracy: 75 %
+3 0.7751259803771973
+Accuracy: 75 %
+4 0.6021919250488281
+Accuracy: 68 %
+5 0.44974830746650696
+Accuracy: 81 %
+6 0.4717709422111511
+Accuracy: 93 %
+7 0.9087365865707397
+Accuracy: 87 %
+8 0.5681710839271545
+Accuracy: 93 %
+9 0.45111364126205444
+Accuracy: 81 %
+10 0.2797199785709381
+Accuracy: 87 %
+11 0.5219621062278748
+Accuracy: 83 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 82 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 64 %
+Test Accuracy: 64 %
+Test Accuracy: 100 %
+[epoch:197]
+0 0.33092769980430603
+Accuracy: 100 %
+1 0.7435586452484131
+Accuracy: 81 %
+2 0.44593358039855957
+Accuracy: 87 %
+3 0.3988705277442932
+Accuracy: 87 %
+4 0.3770131766796112
+Accuracy: 81 %
+5 0.5617899894714355
+Accuracy: 93 %
+6 0.35010963678359985
+Accuracy: 93 %
+7 1.01639986038208
+Accuracy: 87 %
+8 0.3643382787704468
+Accuracy: 87 %
+9 0.31261152029037476
+Accuracy: 87 %
+10 0.43474245071411133
+Accuracy: 87 %
+11 1.022191047668457
+Accuracy: 66 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+[epoch:198]
+0 0.29743701219558716
+Accuracy: 100 %
+1 0.5443246364593506
+Accuracy: 93 %
+2 0.4918898940086365
+Accuracy: 87 %
+3 0.451447069644928
+Accuracy: 87 %
+4 0.3953339755535126
+Accuracy: 68 %
+5 0.9267204403877258
+Accuracy: 75 %
+6 1.1242146492004395
+Accuracy: 75 %
+7 0.3851271867752075
+Accuracy: 68 %
+8 0.3106667995452881
+Accuracy: 81 %
+9 0.7871237993240356
+Accuracy: 75 %
+10 0.4998999238014221
+Accuracy: 75 %
+11 0.7011469006538391
+Accuracy: 66 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 82 %
+Test Accuracy: 70 %
+Test Accuracy: 47 %
+Test Accuracy: 94 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+[epoch:199]
+0 0.3357461988925934
+Accuracy: 87 %
+1 0.9315648078918457
+Accuracy: 75 %
+2 0.5451356172561646
+Accuracy: 87 %
+3 0.42748454213142395
+Accuracy: 81 %
+4 0.4749651551246643
+Accuracy: 81 %
+5 0.5077319145202637
+Accuracy: 75 %
+6 0.4091136157512665
+Accuracy: 87 %
+7 0.5227627754211426
+Accuracy: 75 %
+8 0.4359877407550812
+Accuracy: 87 %
+9 0.9752686023712158
+Accuracy: 75 %
+10 0.2725747227668762
+Accuracy: 93 %
+11 0.3925912380218506
+Accuracy: 83 %
+Test Accuracy: 100 %
+Test Accuracy: 94 %
+Test Accuracy: 88 %
+Test Accuracy: 70 %
+Test Accuracy: 88 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 70 %
+Test Accuracy: 100 %
+[epoch:200]
+0 0.46150898933410645
+Accuracy: 87 %
+1 1.0754828453063965
+Accuracy: 75 %
+2 0.7778728008270264
+Accuracy: 75 %
+3 1.512738823890686
+Accuracy: 37 %
+4 0.44373801350593567
+Accuracy: 87 %
+5 0.25782957673072815
+Accuracy: 93 %
+6 0.7236320376396179
+Accuracy: 81 %
+7 0.21691738069057465
+Accuracy: 93 %
+8 0.6080646514892578
+Accuracy: 68 %
+9 0.8607372045516968
+Accuracy: 68 %
+10 0.43681368231773376
+Accuracy: 81 %
+11 1.4232269525527954
+Accuracy: 75 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 64 %
+Test Accuracy: 70 %
+Test Accuracy: 76 %
+Test Accuracy: 76 %
+Test Accuracy: 100 %
+Test Accuracy: 88 %
+Test Accuracy: 82 %
+Test Accuracy: 100 %
+Test Accuracy: 100 %
+Finished Training
